@@ -6,7 +6,7 @@ The following is my personal website：
 
   > This is an online learning website that I completed after my undergraduate study. It aggregates articles of various technical directions. You can read, download and edit your own knowledge base online
 - 🍀 [csdn blog](https://bareth.blog.csdn.net/)
-- ✈️ [docsify website](https://siruzhong.gitee.io/docsify/#/)
+- ✈️ [hexo website](https://siruzhong.gitee.io/)
 
 How to connect me: 📧 bareth@qq.com
 
