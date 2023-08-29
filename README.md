@@ -4,9 +4,6 @@ Hi guys 👀, I am currently an **MPhil** student at **HKUST(GZ)**, supervised b
 
 Before that, I am a **Background R&D Engineer**, in the Cloud IDE team of **Tencent**, engaged in cloud research and development、event bus、DevOps and engineering efficiency🌱. 
 
-The following is my personal website：
-- 🌎 [Home page](https://siruzhong.netlify.app) 
-- 🍀 [csdn blog](https://bareth.blog.csdn.net/)
-- ✈️ [hexo website](https://siruzhong.gitee.io/)
+Here is my home page：https://siruzhong.netlify.app
 
 I am very happy to learn and make progress with you here 💞️. You can connect me by: 📧 szhong691@connect.hkust-gz.edu.cn
