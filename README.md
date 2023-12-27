@@ -25,7 +25,7 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 
 # News
 
-- 2023 Nov: One paper submitted to **ICDE'24**!
+- 2023 Nov: Two paper submitted to **ICDE'24**!
 - 2023 Oct: One paper submitted to **WWW'24**!
 
 [![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats)
