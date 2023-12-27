@@ -16,9 +16,11 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
   + Multimodal Representation Learning
   + LLM-Enhanced Multimodal Learning
   + Cross-modal Data Alignment and Fusion
-+ Spatio-Temporal Data Science
++ Urban Computing
   + Urban Region Profiling in Remote Sensing
   + Interpretable Urban Area Analysis
+  + Spatio-Temporal Data Mining
+
 
 # News
 
