@@ -10,6 +10,16 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 + 👉 [CSDN](https://bareth.blog.csdn.net/)
 + 📧 siruzhong@outlook.com
 
+# Research Interest
+
++ **Multimodal Learning**
+  + Multimodal Fusion and Embedding
+  + Multimodal Search and Recommendation
++ **Urban Computing**
+  + Urban Region Profiling
+  + Spatio-Temporal Data Mining
+
+
 # News
 
 - [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted to WWW'24!
@@ -44,15 +54,5 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
   </tr>
 </table>
 
-
-# Research Interest
-
-+ **Multimodal Learning**
-  + LLM-Enhanced Multimodal Representation Learning
-  + Cross-modal Data Alignment and Fusion
-  + Remote Sensing Multimodal
-+ **Urban Computing**
-  + Interpretable Urban Region Profiling
-  + Spatio-Temporal Data Mining
 
 [![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats)
