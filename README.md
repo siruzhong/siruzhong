@@ -20,7 +20,7 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 <table>
   <tr>
     <td width="200">
-      <img src="https://zh.m.wikipedia.org/wiki/File:Tencent_Logo.svg" alt="腾讯" style="max-width:100%;" />
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145544.png" alt="腾讯" style="max-width:100%;" />
     </td>
     <td>
       <strong>Research Assistant</strong> | DianLab, NPU<br>
@@ -29,7 +29,7 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
   </tr>
   <tr>
     <td width="200">
-      <img src="https://haroldchen19.github.io/images/misc/UST1.jpg" alt="香港科技大学（广州）" style="max-width:100%;" />
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145727.png" alt="香港科技大学（广州）" style="max-width:100%;" />
     </td>
     <td>
       <strong>Research Intern</strong> | CityMind Lab, HKUST(GZ)<br>
