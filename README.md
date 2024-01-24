@@ -20,23 +20,31 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 <table>
   <tr>
     <td width="20%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145544.png" alt="腾讯" style="max-width:100%;" />
-    </td>
-    <td width="80%">
-      <strong>Research Assistant</strong> | DianLab, NPU<br>
-      <strong>Time:</strong> 6/2023 – Present. <strong>Advisor:</strong> Prof. Dian Shao (USRI & Shanghai AI Laboratory)
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"">
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145727.png" alt="香港科技大学（广州）" style="max-width:100%;" />
     </td>
     <td width="80%">
-      <strong>Research Intern</strong> | CityMind Lab, HKUST(GZ)<br>
-      <strong>Time:</strong> 4/2023 – 10/2023. <strong>Advisor:</strong> Prof. Yuxuan Liang (IT Thrust & DSA Thrust)
+      <strong>Research Assistant</strong> | CityMind Lab, HKUST(GZ)<br>
+      <strong>Time:</strong> 5/2023 – 8/2023.<br>
+      <strong>Advisor:</strong> Prof. Yuxuan Liang (INTR & DSA Thrust)
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" rowspan="2">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145544.png" alt="腾讯" style="max-width:100%;" />
+    </td>
+    <td width="80%">
+      <strong>Backend Development Engineer</strong> | CloudIDE Team, PCG, Tencent (Shenzhen)<br>
+      <strong>Time:</strong> 7/2022 – 5/2023.
+    </td>
+  </tr>
+  <tr>
+    <td width="80%">
+      <strong>Summer Intern</strong> | Social Backend Efficiency Team, PCG, Tencent (Beijing)<br>
+      <strong>Time:</strong> 6/2021 – 9/2021.
     </td>
   </tr>
 </table>
+
 
 # Research Interest
 
