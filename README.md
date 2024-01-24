@@ -68,7 +68,15 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
   </tr>
 </table>
 
+# Hornors & Awards
+- Tencent iCode Certification
+- Tencent Code World Program Silver Award
+- Tencent Graduates Training Outstanding Student
+- HFUT Outstanding undergraduate Graduation Project
+- National English Competition for College Students Third Prize
+- First prize of CSDN “GEEK+” technical original Blogger Contest
+- HFUT Robot Competition 2D Project Team Second Prize
+- Hefei University of Technology Scholarship
 
-
-
+# GitHub stats
 [![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats)
