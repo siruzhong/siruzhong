@@ -33,13 +33,13 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145544.png" alt="腾讯" style="max-width:100%;" />
     </td>
     <td width="80%">
-      <strong>Backend Development Engineer</strong> | CloudIDE Team, PCG, Tencent (Shenzhen)<br>
+      <strong>Backend Development Engineer</strong> | CloudIDE Team, Tencent (Shenzhen)<br>
       <strong>Time:</strong> 7/2022 – 5/2023.
     </td>
   </tr>
   <tr>
     <td width="80%">
-      <strong>Summer Intern</strong> | Social Backend Efficiency Team, PCG, Tencent (Beijing)<br>
+      <strong>Summer Intern</strong> | Social Backend Efficiency Team, Tencent (Beijing)<br>
       <strong>Time:</strong> 6/2021 – 9/2021.
     </td>
   </tr>
