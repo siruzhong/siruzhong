@@ -16,10 +16,11 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 - [11/2023]: Two paper submitted to ICDE'24!
 - [10/2023]: One paper submitted to WWW'24!
 
+# Work Experience
 <table>
   <tr>
-    <td>
-      <img src="https://haroldchen19.github.io/images/misc/NWPU.png" alt="北西工业大学" />
+    <td width="200">
+      <img src="https://haroldchen19.github.io/images/misc/NWPU.png" alt="北西工业大学" style="max-width:100%;" />
     </td>
     <td>
       <strong>Research Assistant</strong> | DianLab, NPU<br>
@@ -27,8 +28,8 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://haroldchen19.github.io/images/misc/UST1.jpg" alt="香港科技大学（广州）" />
+    <td width="200">
+      <img src="https://haroldchen19.github.io/images/misc/UST1.jpg" alt="香港科技大学（广州）" style="max-width:100%;" />
     </td>
     <td>
       <strong>Research Intern</strong> | CityMind Lab, HKUST(GZ)<br>
