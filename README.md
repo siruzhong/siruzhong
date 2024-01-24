@@ -13,8 +13,8 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 # News
 
 - [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted to WWW'24!
-- [11/2023]: Two paper submitted to **ICDE'24**!
-- [10/2023]: One paper submitted to **WWW'24**!
+- [11/2023]: Two paper submitted to ICDE'24!
+- [10/2023]: One paper submitted to WWW'24!
 
 
 # Research Interest
