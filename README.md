@@ -24,8 +24,7 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
     </td>
     <td width="80%">
       <strong>Research Assistant</strong> | CityMind Lab, HKUST(GZ)<br>
-      Time: 5/2023 – 8/2023.<br>
-      Advisor: Prof. Yuxuan Liang (INTR & DSA Thrust)
+      Time: 5/2023 – 8/2023. Advisor: Prof. Yuxuan Liang (INTR & DSA Thrust)
     </td>
   </tr>
   <tr>
