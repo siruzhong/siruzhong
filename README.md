@@ -16,6 +16,26 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 - [11/2023]: Two paper submitted to ICDE'24!
 - [10/2023]: One paper submitted to WWW'24!
 
+<table>
+  <tr>
+    <td>
+      ![北西工业大学](https://haroldchen19.github.io/images/misc/NWPU.png)
+    </td>
+    <td>
+      <strong>Research Assistant</strong> | DianLab, NPU<br>
+      <strong>Time:</strong> 6/2023 – Present. <strong>Advisor:</strong> Prof. Dian Shao (USRI & Shanghai AI Laboratory)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ![香港科技大学（广州）](https://haroldchen19.github.io/images/misc/UST1.jpg)
+    </td>
+    <td>
+      <strong>Research Intern</strong> | CityMind Lab, HKUST(GZ)<br>
+      <strong>Time:</strong> 4/2023 – 10/2023. <strong>Advisor:</strong> Prof. Yuxuan Liang (IT Thrust & DSA Thrust)
+    </td>
+  </tr>
+</table>
 
 # Research Interest
 
