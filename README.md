@@ -33,8 +33,8 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145727.png" alt="香港科技大学（广州）" style="max-width:100%;" />
     </td>
     <td width="80%">
-      <strong>Research Assistant</strong> | CityMind Lab, HKUST(GZ)<br>
-      Time: 5/2023 – 8/2023. Advisor: Prof. Yuxuan Liang (INTR & DSA Thrust)
+      <strong>Research Assistant</strong> | <a href="https://citymind.top">CityMind Lab</a>, HKUST(GZ)<br>
+      Time: 5/2023 – 8/2023<br>
     </td>
   </tr>
   <tr>
@@ -43,13 +43,13 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
     </td>
     <td width="80%">
       <strong>Backend Development Engineer</strong> | CloudIDE Team, Tencent (Shenzhen)<br>
-      Time:</strong> 7/2022 – 5/2023.
+      Time:</strong> 7/2022 – 5/2023
     </td>
   </tr>
   <tr>
     <td width="80%">
       <strong>Summer Intern</strong> | Social Backend Efficiency Team, Tencent (Beijing)<br>
-      Time: 6/2021 – 9/2021.
+      Time: 6/2021 – 9/2021
     </td>
   </tr>
 </table>
