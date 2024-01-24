@@ -6,9 +6,9 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 
 **More**:
 
-+ 📮 Home: https://siruzhong.netlify.app/ 
-+ 👉 CSDN: https://bareth.blog.csdn.net/
-+ 📧 Email: siruzhong@outlook.com
++ 📮 [Google Scholar](https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ)
++ 👉 [CSDN](https://bareth.blog.csdn.net/)
++ 📧 siruzhong@outlook.com
 
 # News
 
