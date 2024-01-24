@@ -57,7 +57,7 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 <table>
   <tr>
     <td width="20%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160208.png" alt="UrbanCLIP" style="max-width:100%;" />
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" style="max-width:100%;" />
     </td>
     <td width="80%">
       <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
