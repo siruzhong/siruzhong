@@ -19,7 +19,6 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
   + Urban Region Profiling
   + Spatio-Temporal Data Mining
 
-
 # News
 
 - [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted to WWW'24!
@@ -53,6 +52,23 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
     </td>
   </tr>
 </table>
+
+# Publications
+<table>
+  <tr>
+    <td width="20%">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160208.png" alt="UrbanCLIP" style="max-width:100%;" />
+    </td>
+    <td width="80%">
+      <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
+      Yibo Yan, Haomin Wen, <b>Siru Zhong</b>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br>
+      <i>International World Wide Web Conference (WWW), 2024</i><br>
+      [<a href="https://arxiv.org/pdf/2310.18340.pdf">Arxiv</a>]
+    </td>
+  </tr>
+</table>
+
+
 
 
 [![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats)
