@@ -20,7 +20,7 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 <table>
   <tr>
     <td width="200">
-      <img src="https://haroldchen19.github.io/images/misc/NWPU.png" alt="北西工业大学" style="max-width:100%;" />
+      <img src="https://zh.m.wikipedia.org/wiki/File:Tencent_Logo.svg" alt="腾讯" style="max-width:100%;" />
     </td>
     <td>
       <strong>Research Assistant</strong> | DianLab, NPU<br>
