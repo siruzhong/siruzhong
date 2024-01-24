@@ -1,4 +1,4 @@
-# About me
+# About Me
 
 I am a first-year **MPhil** student in [Data Science and Analytics Thrust](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) in [CityMind lab](https://citymind.top).
 
@@ -10,6 +10,13 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 + 👉 CSDN: https://bareth.blog.csdn.net/
 + 📧 Email: siruzhong@outlook.com
 
+# News
+
+- [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted to WWW'24!
+- [11/2023]: Two paper submitted to **ICDE'24**!
+- [10/2023]: One paper submitted to **WWW'24**!
+
+
 # Research Interest
 
 + **Multimodal Learning**
@@ -19,11 +26,5 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 + **Urban Computing**
   + Interpretable Urban Region Profiling
   + Spatio-Temporal Data Mining
-
-
-# News
-
-- 2023 Nov: Two paper submitted to **ICDE'24**!
-- 2023 Oct: One paper submitted to **WWW'24**!
 
 [![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats)
