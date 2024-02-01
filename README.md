@@ -1,11 +1,12 @@
 # About Me
 
-Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year MPhil student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Professor [Yuxuan Liang](https://yuxuanliang.com/) in the [CityMind lab](https://citymind.top).
+Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year MPhil student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Professor [Yuxuan Liang](https://yuxuanliang.com/) in the [CityMind lab](https://citymind.top). 
 
 Prior to this, I had the privilege of working as a Full-time Backend Development Engineer at [Tencent](https://www.tencent.com/), where I contributed to enhancing the performance of mobile QQ and developed efficiency tools such as CloudIDE. My responsibilities spanned various areas, including container scheduling, event orchestration, and infrastructure development.
 
 In 2022, I proudly earned my Bachelor's degree in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/), with a major in IoT Engineering within the [School of Computer and Information](https://ci.hfut.edu.cn/). 
 
+My research interests primarily revolve around Multimodal Learning and Applications, including Multimodal Fusion and Embedding, as well as Multimodal Search and Recommendation. Additionally, I am passionate about Urban Computing, particularly in the areas of Urban Region Profiling and Spatio-Temporal Data Mining.
 
 **More**:
 
@@ -13,22 +14,28 @@ In 2022, I proudly earned my Bachelor's degree in Engineering from [Hefei Univer
 + 👉 [CSDN](https://bareth.blog.csdn.net/)
 + 📧 siruzhong@outlook.com
 
-# Research Interest
-
-+ **Multimodal Learning**
-  + Multimodal Fusion and Embedding
-  + Multimodal Search and Recommendation
-+ **Urban Computing**
-  + Urban Region Profiling
-  + Spatio-Temporal Data Mining
-
-# News
+# 🔥 News
 
 - [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted by WWW'24!
 - [11/2023]: Two paper submitted to ICDE'24.
 - [10/2023]: One paper submitted to WWW'24.
 
-# Work Experience
+# 📝 Publications
+<table>
+  <tr>
+    <td width="20%">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" style="max-width:100%;" />
+    </td>
+    <td width="80%">
+      <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
+      Yibo Yan, Haomin Wen, <b>Siru Zhong</b>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br>
+      <i>International World Wide Web Conference (WWW), 2024</i><br>
+      [<a href="https://arxiv.org/pdf/2310.18340.pdf">Arxiv</a>]
+    </td>
+  </tr>
+</table>
+
+# 💻 Work Experience
 <table>
   <tr>
     <td width="20%">
@@ -56,22 +63,7 @@ In 2022, I proudly earned my Bachelor's degree in Engineering from [Hefei Univer
   </tr>
 </table>
 
-# Publications
-<table>
-  <tr>
-    <td width="20%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" style="max-width:100%;" />
-    </td>
-    <td width="80%">
-      <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
-      Yibo Yan, Haomin Wen, <b>Siru Zhong</b>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br>
-      <i>International World Wide Web Conference (WWW), 2024</i><br>
-      [<a href="https://arxiv.org/pdf/2310.18340.pdf">Arxiv</a>]
-    </td>
-  </tr>
-</table>
-
-# Hornors & Awards
+# 🏆 Hornors & Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
 - 2023: Outstanding Students of the Red Bird Challenge Camp at HKUST(GZ)
 - 2022: Tencent iCode Certification
