@@ -1,9 +1,11 @@
 # About Me
 
+Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year MPhil student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Professor [Yuxuan Liang](https://yuxuanliang.com/) in the [CityMind lab](https://citymind.top).
 
-I am a 1<sup>st</sup>-year **MPhil** student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) in [CityMind lab](https://citymind.top).
+Prior to this, I had the privilege of working as a Full-time Backend Development Engineer at [Tencent](https://www.tencent.com/), where I contributed to enhancing the performance of mobile QQ and developed efficiency tools such as CloudIDE. My responsibilities spanned various areas, including container scheduling, event orchestration, and infrastructure development.
 
-Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https://www.tencent.com/), focusing on container scheduling, event orchestration and infrastructure development. I obtained my Bachelor's degree in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/) in 2022, major in IoT Engineering within the [School of Computer and Information](https://ci.hfut.edu.cn/).
+In 2022, I proudly earned my Bachelor's degree in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/), with a major in IoT Engineering within the [School of Computer and Information](https://ci.hfut.edu.cn/). 
+
 
 **More**:
 
