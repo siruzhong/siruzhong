@@ -81,5 +81,5 @@ Prior to this, I worked as a **Backend Development Engineer** at [Tencent](https
 - 2020: Second Prize for the HFUT Robot Competition 2D Project Team
 
 
-# GitHub stats
-[![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats)
+<!-- # GitHub stats
+[![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats) -->
