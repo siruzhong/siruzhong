@@ -51,13 +51,13 @@ My research interests primarily revolve around Multimodal Learning and Applicati
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145544.png" alt="腾讯" style="max-width:100%;" />
     </td>
     <td width="80%">
-      <strong>Backend Development Engineer</strong> | CloudIDE Team, Tencent (Shenzhen)<br>
+      <strong>Backend Development Engineer</strong> | CloudIDE Team, Tencent(SZ)<br>
       Time:</strong> 7/2022 – 5/2023
     </td>
   </tr>
   <tr>
     <td width="80%">
-      <strong>Summer Intern</strong> | Social Backend Efficiency Team, Tencent (Beijing)<br>
+      <strong>Summer Intern</strong> | Social Backend Efficiency Team, Tencent(BJ)<br>
       Time: 6/2021 – 9/2021
     </td>
   </tr>
