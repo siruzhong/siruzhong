@@ -12,6 +12,7 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 
 + 📮 [Google Scholar](https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ)
 + 👉 [CSDN](https://bareth.blog.csdn.net/)
++ 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📧 siruzhong@outlook.com
 
 # 🔥 News
