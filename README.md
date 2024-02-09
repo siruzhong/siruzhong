@@ -17,6 +17,7 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 
 # 🔥 News
 
+- [02/2024]: One paper submitted to KDD'24.
 - [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted by WWW'24!
 - [11/2023]: Two paper submitted to ICDE'24.
 - [10/2023]: One paper submitted to WWW'24.
