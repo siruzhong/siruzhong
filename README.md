@@ -42,7 +42,7 @@ My research interests primarily revolve around Multimodal Learning and Applicati
     <td width="70%">
       <strong>UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
       Xixuan Hao, Wei Chen, Yibo Yan, <ins><b>Siru Zhong</b></ins>, Kun Wang, Qingsong Wen, Yuxuan Liang<br>
-      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i></li>
+      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i>[<a href="">Arxiv</a>]</li>
       Under Review
     </td>
   </tr>
