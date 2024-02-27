@@ -25,10 +25,10 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 # 📝 Publications
 <table>
   <tr>
-    <td width="20%">
+    <td width="40%">
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" style="max-width:100%;" />
     </td>
-    <td width="80%">
+    <td width="60%">
       <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
       Yibo Yan, Haomin Wen, <ins><b>Siru Zhong</b></ins>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br>
       <i>International World Wide Web Conference (WWW), 2024</i><br>
