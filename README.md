@@ -15,13 +15,6 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 + 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📧 siruzhong@outlook.com
 
-# 🔥 News
-
-- [02/2024]: Three papers submitted to IJCAI-24.
-- [02/2024]: One paper submitted to KDD'24.
-- [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted by WWW'24!
-- [10/2023]: One paper submitted to WWW'24.
-
 # 📝 Publications
 <table>
   <tr>
@@ -86,6 +79,13 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 - 2021: Third Prize in the National English Competition for College Students
 - 2020: First Prize in the CSDN “GEEK+” Technical Original Blogger Contest
 - 2020: Second Prize for the HFUT Robot Competition 2D Project Team
+
+# 🔥 News
+
+- [02/2024]: Three papers submitted to IJCAI-24.
+- [02/2024]: One paper submitted to KDD'24.
+- [01/2024]: [UrbanCLIP](https://arxiv.org/pdf/2310.18340.pdf) is accepted by WWW'24!
+- [10/2023]: One paper submitted to WWW'24.
 
 
 <!-- # GitHub stats
