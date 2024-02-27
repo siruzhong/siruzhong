@@ -30,9 +30,20 @@ My research interests primarily revolve around Multimodal Learning and Applicati
     </td>
     <td width="70%">
       <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
-      Yibo Yan, Haomin Wen, <ins><b>Siru Zhong</b></ins>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br>
-      <i>International World Wide Web Conference (WWW), 2024</i><br>
-      [<a href="https://arxiv.org/pdf/2310.18340.pdf">Arxiv</a>]
+      Yibo Yan, Haomin Wen, <ins><b>Siru Zhong</b></ins>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br> 
+      <li><i>First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.</i>[<a href="https://arxiv.org/pdf/2310.18340.pdf">Arxiv</a>]</li>
+      The International World Wide Web Conference 2024, Singapore (WWW'24)
+    </td>
+  </tr>
+    <tr>
+    <td width="30%">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanCLIP" style="max-width:100%;" />
+    </td>
+    <td width="70%">
+      <strong>UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
+      Xixuan Hao, Wei Chen, Yibo Yan, <ins><b>Siru Zhong</b></ins>, Kun Wang, Qingsong Wen, Yuxuan Liang<br>
+      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i></li>
+      Under Review
     </td>
   </tr>
 </table>
