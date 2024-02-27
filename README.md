@@ -15,6 +15,14 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 + 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📧 siruzhong@outlook.com
 
+
+# 📖 Education
+<ul>
+  
+  <li><em>Sep 2021 - Jul 2023</em>, <strong><em>National University of Singapore</em></strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="height: 1.5em;">.</li>
+  <li><em>Sep 2017 - Jun 2021</em>, <strong><em>Hefei University of Technology</em></strong> <img src="./images/HKBU.png" style="width: 6em;">.</li>
+</ul>
+
 # 📝 Publications
 <table>
   <tr>
