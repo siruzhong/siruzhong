@@ -80,9 +80,9 @@ My research interests primarily revolve around Multimodal Learning and Applicati
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
 - 2023: Outstanding Students of the Red Bird Challenge Camp at HKUST(GZ)
 - 2022: Tencent iCode Certification
-- 2022: Silver Award in Tencent Code World Program
-- 2022: Outstanding Student in Tencent Graduates Training
-- 2022: Outstanding Undergraduate Graduation Project at HFUT
+- 2022: Silver Award in Tencent Code World Program (2/12)
+- 2022: Outstanding Student in Tencent Graduates Training (8/100)
+- 2022: Outstanding Undergraduate Graduation Project at HFUT (%2)
 - 2021: Third Prize in the National English Competition for College Students
 - 2020: First Prize in the CSDN “GEEK+” Technical Original Blogger Contest
 - 2020: Second Prize for the HFUT Robot Competition 2D Project Team
