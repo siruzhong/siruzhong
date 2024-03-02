@@ -51,10 +51,11 @@ My research interests primarily revolve around Multimodal (vision-language) Lear
 # 💻 Work Experience
 
 <ul>
-  <li>May 2023 - Aug 2023, CityMind Lab, <strong>HKUST (Guangzhou)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172709.png" style="width: 11em;"></li>
-  <li>Jun 2022 - May 2023, CloudIDE Team, <strong>Tencent (Shenzhen)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-145639.png" style="width: 6em;"></li>
-  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, <strong>Tencent (Beijing)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-145421.png" style="width: 3em;"></li>
+  <li>May 2023 - Aug 2023, CityMind Lab, <strong>HKUST (Guangzhou)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150616.png" style="width: 6em;"></li>
+  <li>Jun 2022 - May 2023, CloudIDE Team, <strong>Tencent (Shenzhen)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150303.png" style="width: 6em;"></li>
+  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, <strong>Tencent (Beijing)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
 </ul
+
 
 # 🏆 Honors & Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
