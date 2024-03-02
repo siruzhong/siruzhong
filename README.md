@@ -1,4 +1,4 @@
-# Profile
+# 🗒️ Profile
 
 Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, currently a 1<sup>st</sup>-year Master of Philosophy student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Professor [Yuxuan Liang](https://yuxuanliang.com/) in the [CityMind lab](https://citymind.top). 
 
