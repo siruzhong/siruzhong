@@ -18,8 +18,16 @@ My research interests primarily revolve around Multimodal (vision-language) Lear
 
 # 📖 Education
 <ul>
-  <li>Sep 2023 - Jul 2025, <strong>The Hong Kong University of Science and Technology (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172709.png" style="width: 11em;"></li>
-  <li>Sep 2018 - Jun 2022, <strong>Hefei University of Technology</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 8em;"></li>
+  <li>Sep 2023 - Jul 2025, Master of Philosophy, DSA, <strong>The Hong Kong University of Science and Technology (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172709.png" style="width: 11em;"></li>
+  <li>Sep 2018 - Jun 2022, Bachelor of Engineering, CS, <strong>Hefei University of Technology</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 8em;"></li>
+</ul>
+
+# 💻 Work Experience
+
+<ul>
+  <li>May 2023 - Aug 2023, CityMind Lab, <strong>HKUST (Guangzhou)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
+  <li>Jun 2022 - May 2023, CloudIDE Team, <strong>Tencent (Shenzhen)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150303.png" style="width: 7em;"></li>
+  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, <strong>Tencent (Beijing)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
 </ul>
 
 # 📝 Publications
@@ -47,14 +55,6 @@ My research interests primarily revolve around Multimodal (vision-language) Lear
     </td>
   </tr>
 </table>
-
-# 💻 Work Experience
-
-<ul>
-  <li>May 2023 - Aug 2023, CityMind Lab, <strong>HKUST (Guangzhou)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150616.png" style="width: 6em;"></li>
-  <li>Jun 2022 - May 2023, CloudIDE Team, <strong>Tencent (Shenzhen)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150303.png" style="width: 6em;"></li>
-  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, <strong>Tencent (Beijing)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
-</ul
 
 
 # 🏆 Honors & Awards
