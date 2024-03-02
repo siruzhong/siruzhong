@@ -49,32 +49,12 @@ My research interests primarily revolve around Multimodal (vision-language) Lear
 </table>
 
 # 💻 Work Experience
-<table>
-  <tr>
-    <td width="20%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145727.png" alt="香港科技大学（广州）" style="max-width:100%;" />
-    </td>
-    <td width="80%">
-      <strong>Research Assistant</strong> | <a href="https://citymind.top">CityMind Lab</a>, HKUST(GZ)<br>
-      Time: 5/2023 – 8/2023<br>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" rowspan="2">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-145544.png" alt="腾讯" style="max-width:100%;" />
-    </td>
-    <td width="80%">
-      <strong>Backend Development Engineer</strong> | CloudIDE Team, Tencent(SZ)<br>
-      Time:</strong> 7/2022 – 5/2023
-    </td>
-  </tr>
-  <tr>
-    <td width="80%">
-      <strong>Summer Intern</strong> | Social Backend Efficiency Team, Tencent(BJ)<br>
-      Time: 6/2021 – 9/2021
-    </td>
-  </tr>
-</table>
+
+<ul>
+  <li>May 2023 - Aug 2023, CityMind Lab, <strong>HKUST (Guangzhou)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172709.png" style="width: 11em;"></li>
+  <li>Jun 2022 - May 2023, CloudIDE Team, <strong>Tencent (Shenzhen)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-145639.png" style="width: 6em;"></li>
+  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, <strong>Tencent (Beijing)</strong>. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-145421.png" style="width: 3em;"></li>
+</ul
 
 # 🏆 Honors & Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
