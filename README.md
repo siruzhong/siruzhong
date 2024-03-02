@@ -1,12 +1,12 @@
 # Profile
 
-Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year MPhil student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Professor [Yuxuan Liang](https://yuxuanliang.com/) in the [CityMind lab](https://citymind.top). 
+Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, currently a 1<sup>st</sup>-year MPhil student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Professor [Yuxuan Liang](https://yuxuanliang.com/) in the [CityMind lab](https://citymind.top). 
 
-Prior to this, I had the privilege of working as a Full-time Backend Development Engineer at [Tencent](https://www.tencent.com/), where I contributed to enhancing the performance of mobile QQ and developed efficiency tools such as CloudIDE. My responsibilities spanned various areas, including container scheduling, event orchestration, and infrastructure development.
+Prior to this, I had the privilege of working as a Full-time Backend Engineer at [Tencent](https://www.tencent.com/) for one year, where I contributed to enhancing the performance of mobile QQ and developed efficiency tools such as CloudIDE, EventBus System. My responsibilities spanned various areas, including container scheduling, event orchestration, and infrastructure development.
 
-In 2022, I proudly earned my Bachelor's degree in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/), with a major in IoT Engineering within the [School of Computer and Information](https://ci.hfut.edu.cn/). 
+In 2022, I proudly earned my Bachelor's degree with an excellent graduation in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/) within the [School of Computer and Information](https://ci.hfut.edu.cn/). 
 
-My research interests primarily revolve around Multimodal Learning and Applications, including Multimodal Fusion and Embedding, as well as Multimodal Search and Recommendation. Additionally, I am passionate about Urban Computing, particularly in the areas of Urban Region Profiling and Spatio-Temporal Data Mining.
+My research interests primarily revolve around Multimodal (vision-language) Learning and Applications, including the exploration of techniques such as LLM (Large Language Models) with RAG (Retrieval-Augmented Generation). Additionally, I am also passionate about Urban Computing, particularly in the areas of Urban Region Profiling and Spatio-Temporal Data Mining.
 
 **More**:
 
