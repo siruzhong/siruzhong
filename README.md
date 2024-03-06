@@ -25,9 +25,9 @@ My research interests primarily revolve around Multimodal (vision-language) Lear
 # 💻 Work Experience
 
 <ul>
-  <li>May 2023 - Aug 2023, CityMind Lab, <strong>HKUST (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
-  <li>Jun 2022 - May 2023, CloudIDE Team, <strong>Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
-  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, <strong>Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
+  <li>May 2023 - Aug 2023, CityMind Lab, Research Assistant, <strong>HKUST (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
+  <li>Jun 2022 - May 2023, CloudIDE Team, Beckend Engineer, <strong>Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
+  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, Summer Intern, <strong>Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
 </ul>
 
 # 📝 Publications
