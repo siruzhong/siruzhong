@@ -8,7 +8,7 @@ In 2022, I proudly earned my Bachelor's degree with an excellent graduation in E
 
 My research interests primarily revolve around Multimodal (vision-language) Learning and its diverse applications, incorporating Large Language Models (LLMs), Knowledge Graphs (KGs), and Retrieval-Augmented Generation (RAG) to enhance the learning process and enable tasks such as information retrieval and reasoning. 
 
-Currently, my focus lies in applying multimodal learning techniques to the urban computing domain, which aims to deepen our understanding of complex urban dynamics and facilitate more transferable and informed decision-making processes, such as Urban Region Profiling and Satellite Image-Text Retrieval. Furthermore, I am intrigued by Spatio-Temporal Data Mining, particularly in empirical areas like quality prediction and car park demand prediction within the urban domain.
+Currently, my focus lies in applying multimodal learning techniques to the urban computing domain, which aims to deepen our understanding of complex urban dynamics and facilitate more transferable and informed decision-making processes, such as Urban Region Profiling and Satellite Image-Text Retrieval. Furthermore, I am intrigued by Spatio-Temporal Data Mining, particularly in empirical areas like air quality prediction and car park demand prediction within the urban domain.
 
 
 **More**:
