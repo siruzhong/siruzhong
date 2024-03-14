@@ -57,6 +57,18 @@ Currently, my focus lies in applying multimodal learning techniques to the urban
       Under Review
     </td>
   </tr>
+  </tr>
+    <tr>
+    <td width="30%">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" alt="STFNN" style="max-width:100%;" />
+    </td>
+    <td width="70%">
+      <strong>Spatio-Temporal Field Neural Networks for Air Quality Inference</strong><br> 
+      Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, <ins><b>Siru Zhong</b></ins>, Kun Wang, Shifen Cheng, Yuxuan Liang<br>
+      <li><i>A groundbreaking Spatio-Temporal Field Neural Network model integrates two distinct perspectives on space and time for the first time to perform air quality inference.</i>[<a href="https://arxiv.org/pdf/2403.02354.pdf">Arxiv</a>]</li>
+      Under Review
+    </td>
+  </tr>
 </table>
 
 
