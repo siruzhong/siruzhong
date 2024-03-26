@@ -52,7 +52,7 @@ Currently, I'm focusing on applying these techniques in urban computing, aiming 
     <td width="70%">
       <strong>UrbanVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
       Xixuan Hao, Wei Chen, Yibo Yan, <ins><b>Siru Zhong</b></ins>, Kun Wang, Qingsong Wen, Yuxuan Liang<br>
-      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i>[<a href="">Arxiv</a>]</li>
+      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i>[<a href="https://arxiv.org/pdf/2403.16831.pdf">Arxiv</a>]</li>
       Under Review
     </td>
   </tr>
