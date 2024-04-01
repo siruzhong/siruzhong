@@ -6,9 +6,7 @@ Prior to this, I had the privilege of working as a Full-time Backend Engineer at
 
 In 2022, I proudly earned my Bachelor's degree with an excellent graduation in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/) within the [School of Computer and Information](https://ci.hfut.edu.cn/). 
 
-My research interests center on Multimodal Learning, leveraging Large Language Models (LLMs), Knowledge Graphs (KGs), and Retrieval-Augmented Generation (RAG) for enhanced learning outcomes and applications like information retrieval and reasoning. 
-
-Currently, I'm focusing on applying these techniques in urban computing, aiming to better understand complex urban dynamics and improve decision-making processes such as Urban Region Profiling and Satellite Image-Text Retrieval. Additionally, I'm exploring Spatio-Temporal Data Mining, particularly in areas like air quality and car park demand prediction within urban environments.
+My research interests revolve around Multimodal Learning and Spatio-Temporal Data Mining in urban contexts, integrating Large Language Models (LLMs) and Knowledge Graphs (KGs). I aim to understand complex urban dynamics, doing applicable applications like Air Quality Prediction and Inference, Urban Region Profiling, and Satellite Image-Text Retrieval.
 
 **More**:
 
