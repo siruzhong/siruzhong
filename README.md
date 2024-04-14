@@ -1,12 +1,8 @@
 # 🗒️ Profile
 
-Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, currently a 1<sup>st</sup>-year Master of Philosophy student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), under the guidance of Prof. [Yuxuan Liang](https://yuxuanliang.com/) in [CityMind lab](https://citymind.top), co-supervised with Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in [HKUST-KnowComp](https://github.com/HKUST-KnowComp).
+Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year Master of Philosophy student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/). My research interests revolve around multimodal retrieval and generation, vison-language pretraining, and urban computing, supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) at the [CityMind lab](https://citymind.top) and co-supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at [HKUST-KnowComp](https://github.com/HKUST-KnowComp).
 
-Prior to this, I had the privilege of working as a Full-time Backend Engineer at [Tencent](https://www.tencent.com/) for one year, where I contributed to enhancing the performance of mobile QQ and developed efficiency tools such as CloudIDE, EventBus System. My responsibilities spanned various areas, including container scheduling, event orchestration, and infrastructure development.
-
-In 2022, I proudly earned my Bachelor's degree with an excellent graduation in Engineering from [Hefei University of Technology](https://www.hfut.edu.cn/) within the [School of Computer and Information](https://ci.hfut.edu.cn/). 
-
-My research interests revolve around Multimodal Learning and Spatio-Temporal Data Mining in urban contexts, integrating Large Language Models (LLMs) and Knowledge Graphs (KGs). I aim to understand complex urban dynamics, doing applicable applications like Air Quality Prediction and Inference, Urban Region Profiling, and Satellite Image-Text Retrieval.
+Prior to my current studies, I worked as a Backend Engineer at [Tencent](https://www.tencent.com/) from 2021 to 2023. I enhanced the performance of mobile QQ and developed tools such as CloudIDE and the EventBus System, focusing on container scheduling, event orchestration, and infrastructure development. In 2022, I earned my Bachelor's degree in Engineering with distinction from [Hefei University of Technology](https://www.hfut.edu.cn/), [School of Computer and Information](https://ci.hfut.edu.cn/).	
 
 **More**:
 
