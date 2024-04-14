@@ -20,14 +20,24 @@ Prior to my current studies, I worked as a **Backend Engineer** at [Tencent](htt
 
 # 💻 Work Experience
 
-**May 2023 - Aug 2023, CityMind Lab, Research Assistant, HKUST (Guangzhou)**
-- Developed Data-Crawler for multimodal spatio-temporal data collection, featuring IP proxying, multithreading, encryption, and database interactions. Contributed to multiple academic papers.
-- Led the CityMind-Lab website development, enhancing interdisciplinary collaboration and research visibility.
-
+<li><strong>May 2023 - Aug 2023, CityMind Lab, Research Assistant, HKUST (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
 <ul>
-  <li>May 2023 - Aug 2023, CityMind Lab, Research Assistant, <strong>HKUST (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
-  <li>Jun 2022 - May 2023, CloudIDE Team, Backend Engineer, <strong>Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
-  <li>Jun 2021 - Sep 2021, QQ Efficiency Team, Summer Intern, <strong>Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
+    <li>Developed Data-Crawler for multimodal spatio-temporal data collection, featuring IP proxying, multithreading, encryption, and database interactions. Contributed to multiple academic papers.</li>
+    <li>Led the CityMind-Lab website development, enhancing interdisciplinary collaboration and research visibility.</li>
+</ul>
+
+<li><strong>Jun 2022 - May 2023, CloudIDE Team, Backend Engineer, Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
+<ul>
+    <li>Awards: Tencent Outstanding Newcomer, Silver in Code World, iCode Cert, 2023 Annual Performer.</li>
+    <li>Codespaces: Led container IDE enhancements, utilized cloud-native tech for platform resilience and user experience improvements.</li>
+    <li>Fiber: Developed an IFTTT-based orchestration engine, streamlined DevOps with EventBus and CI/CD, and improved monitoring using Prometheus and Grafana.</li>
+</ul>
+
+<li><strong>Jun 2021 - Sep 2021, QQ Efficiency Team, Summer Intern, Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
+<ul>
+    <li>Enhanced QQ Efficiency Platform, improved error handling, release stability, and deployment speeds.</li>
+    <li>Overhauled QQ Quality Management Platform, upgraded from HTTP to RPC, boosting code quality and deployment efficiency.</li>
+    <li>Achieved a return offer with 11.2k lines of code and an "A" rating, securing an SP Offer.</li>
 </ul>
 
 # 📝 Publications
