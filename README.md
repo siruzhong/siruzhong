@@ -20,6 +20,10 @@ Prior to my current studies, I worked as a Backend Engineer at [Tencent](https:/
 
 # 💻 Work Experience
 
+**May 2023 - Aug 2023, CityMind Lab, Research Assistant, HKUST (Guangzhou)**
+- Developed Data-Crawler for multimodal spatio-temporal data collection, featuring IP proxying, multithreading, encryption, and database interactions. Contributed to multiple academic papers.
+- Led the CityMind-Lab website development, enhancing interdisciplinary collaboration and research visibility.
+
 <ul>
   <li>May 2023 - Aug 2023, CityMind Lab, Research Assistant, <strong>HKUST (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
   <li>Jun 2022 - May 2023, CloudIDE Team, Backend Engineer, <strong>Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
