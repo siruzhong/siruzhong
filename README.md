@@ -2,7 +2,7 @@
 
 Hi there! 😊 I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year Master of Philosophy student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/). My research interests revolve around **multimodal retrieval and generation**, **vison-language pretraining**, and **urban computing**, supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) at the [CityMind lab](https://citymind.top) and co-supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at [HKUST-KnowComp](https://github.com/HKUST-KnowComp).
 
-Prior to my current studies, I worked as a Backend Engineer at [Tencent](https://www.tencent.com/) from 2021 to 2023. I enhanced the performance of mobile QQ and developed tools such as CloudIDE and the EventBus System, focusing on container scheduling, event orchestration, and infrastructure development. In 2022, I earned my Bachelor's degree in Engineering with distinction from [Hefei University of Technology](https://www.hfut.edu.cn/), [School of Computer and Information](https://ci.hfut.edu.cn/).	
+Prior to my current studies, I worked as a **Backend Engineer** at [Tencent](https://www.tencent.com/) from 2021 to 2023. I enhanced the performance of mobile QQ and developed tools such as CloudIDE and the EventBus System, focusing on **container scheduling**, **event orchestration**, and **infrastructure development**. In 2022, I earned my Bachelor's degree in Engineering with distinction from [Hefei University of Technology](https://www.hfut.edu.cn/), [School of Computer and Information](https://ci.hfut.edu.cn/).	
 
 **More**:
 
