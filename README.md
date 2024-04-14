@@ -28,9 +28,9 @@ Prior to my current studies, I worked as a **Backend Engineer** at [Tencent](htt
 
 <li><strong>Jun 2022 - May 2023, CloudIDE Team, Backend Engineer, Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
 <ul>
-    <li>Awards: Tencent Outstanding Newcomer, Silver in Code World, iCode Cert, 2023 Annual Performer.</li>
-    <li>Codespaces: Led container IDE enhancements, utilized cloud-native tech for platform resilience and user experience improvements.</li>
-    <li>Fiber: Developed an IFTTT-based orchestration engine, streamlined DevOps with EventBus and CI/CD, and improved monitoring using Prometheus and Grafana.</li>
+    <li>Tencent Outstanding Newcomer, Silver in Code World, iCode Cert, 2023 Annual Performer.</li>
+    <li>Led VSCode client integration and container IDE enhancements, utilizing cloud-native tech for platform resilience.</li>
+    <li>Developed an IFTTT-based event orchestration engine, streamlined DevOps pipeline, integrated with Prometheus and Grafana.</li>
 </ul>
 
 <li><strong>Jun 2021 - Sep 2021, QQ Efficiency Team, Summer Intern, Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
