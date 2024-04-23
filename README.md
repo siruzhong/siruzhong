@@ -44,6 +44,17 @@ Prior to my current studies, I worked as a **Backend Engineer** at [Tencent](htt
 <table>
   <tr>
     <td width="30%">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" style="max-width:100%;" />
+    </td>
+    <td width="70%">
+      <strong>UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation</strong><br> 
+      <ins><b>Siru Zhong</b></ins>, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang<br> 
+      <li><i>First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.</i>[<a href="https://arxiv.org/pdf/2404.14241.pdf">Arxiv</a>]</li>
+      Under Review
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" style="max-width:100%;" />
     </td>
     <td width="70%">
