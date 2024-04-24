@@ -1,4 +1,4 @@
-# 🗒️ Profile
+# 👋 Profile
 
 Hi, I'm **Siru ZHONG (钟嗣儒)**, a 1<sup>st</sup>-year Master of Philosophy student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/). My research focuses on **Large Multi-modal Models (LMMs)**, specifically **Vision-Language Pre-training (VLP)**. My work involves the integration and alignment of multimodal data, as well as fine-tuning and adaptation for various downstream tasks. I am fortunate to be supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) at [CityMind lab](https://citymind.top) and co-supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at [HKUST-KnowComp](https://github.com/HKUST-KnowComp).
 
