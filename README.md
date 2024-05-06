@@ -33,7 +33,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
     <li>Developed an IFTTT-based event orchestration engine, streamlined DevOps pipeline, integrated with Prometheus and Grafana.</li>
 </ul>
 
-<li><strong>Jun 2021 - Sep 2021, QQ Efficiency Team, Summer Intern, Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
+<li><strong>Jun 2021 - Sep 2021, Fiber Team, Summer Intern, Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
 <ul>
     <li>Enhanced QQ Efficiency Platform, improved error handling, release stability, and deployment speeds.</li>
     <li>Overhauled QQ Quality Management Platform, upgraded from HTTP to RPC, boosting code quality and deployment efficiency.</li>
