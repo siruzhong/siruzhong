@@ -33,10 +33,9 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
   <li>
    <strong>May 2024 - Present, XPENG Vis-Img Group</strong>, Algorithm Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175339.png" style="width: 8em;">
-    
-    - Developed advanced computer vision algorithms for autonomous driving, improving vehicle safety and efficiency.
-    - Collaborated with cross-functional teams to integrate AI technologies into production vehicles.
-    - Published research papers on image segmentation and object detection in leading academic conferences.
+
+    - Member of Multimodal Large Model team, contributing to dataset construction, model design, fine-tuning, deployment optimization, and research.
+    - Collaborating on publications and patents in an innovative autonomous driving technology team.
   </li>
   
   <li>
@@ -45,7 +44,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
   
     - Conducted research on urban computing, focusing on spatio-temporal data analysis and prediction.
     - Developed a data crawler for collecting multimodal urban data, enhancing research data availability.
-    - Improved the CityMind Lab website, promoting interdisciplinary collaboration and research visibility.
+    - Constructed the CityMind Lab website, promoting interdisciplinary collaboration and research visibility.
   </li>
   
   <li>
@@ -53,14 +52,13 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
 
     CloudIDE Team, Full-time Employee, Shenzhen, 2022~2023
-        - Led the development of VSCode client integration and container IDE enhancements, improving platform resilience.
-        - Developed an IFTTT-based event orchestration engine, streamlining the DevOps pipeline and integrating with Prometheus and Grafana.
+      - Led the development of VSCode client integration and container IDE enhancements, improving platform resilience.
+      - Developed an IFTTT-based event orchestration engine, streamlining the DevOps pipeline and integrating with Prometheus and Grafana.
 
     Fiber Team, Summer Intern, Beijing, 2021~2022
-        - Enhanced the QQ Efficiency Platform, improving error handling, release stability, and deployment speeds.
-        - Overhauled the QQ Quality Management Platform, upgrading from HTTP to RPC and boosting code quality and deployment efficiency.
-        - Secured a return offer with an "A" rating and 11.2k lines of code, earning an SP Offer.
-
+      - Enhanced the QQ Efficiency Platform, improving error handling, release stability, and deployment speeds.
+      - Overhauled the QQ Quality Management Platform, upgrading from HTTP to RPC and boosting code quality and deployment efficiency.
+      - Secured a return offer with an "A" rating and 11.2k lines of code, earning an SP Offer.
   </li>
 </ul>
 
