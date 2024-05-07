@@ -65,30 +65,6 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
 </ul>
 
 
-<ul>
-  <li>
-    May 2024 - Now, <strong>XPENG Vis-Img Group</strong>, Algorithm Engineer.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175339.png" style="width: 8em;">
-  </li>
-  
-  <li>
-    May 2023 - Aug 2023, <strong>HKUST-GZ CityMind</strong>, Research Assistant.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 7em;">
-  </li>
-  
-  <li>
-    Jun 2022 - May 2023, <strong>Tencent PCG Tech-Center</strong>, Backend Engineer.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
-    <ul>
-      <li>CloudIDE Team, Full-time Employee, Shenzhen, 2022~2023</li>
-      <li>Fiber Team, Summer Intern, Beijing, 2021~2022</li>
-        - Enhanced the QQ Efficiency Platform, improving error handling, release stability, and deployment speeds.
-        - Overhauled the QQ Quality Management Platform, upgrading from HTTP to RPC and boosting code quality and deployment efficiency.
-        - Secured a return offer with an "A" rating and 11.2k lines of code, earning an SP Offer.
-    </ul>
-  </li>
-</ul>
-
 # 📝 Publications
 <table>
   <tr>
