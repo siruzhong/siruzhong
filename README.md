@@ -49,7 +49,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
   </li>
   
   <li>
-   <strong>Jun 2022 - May 2023, Tencent PCG Tech-Center</strong>, Backend Engineer.
+   <strong>Jun 2021 - May 2023, Tencent PCG Tech-Center</strong>, Backend Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
 
     CloudIDE Team, Full-time Employee, Shenzhen, 2022~2023
