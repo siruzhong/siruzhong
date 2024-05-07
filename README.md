@@ -21,7 +21,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-170835.png" style="width: 11em; vertical-align: middle;">
   </li>
   <li>
-    Sep 2018 - Jul 2022: BEng in CS,
+    Sep 2018 - Jul 2022, BEng in CS,
    <strong>Hefei University of Technology</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 8em; vertical-align: middle;">
   </li>
