@@ -28,25 +28,25 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
 </ul>
 
 # 💻 Work Experience
-
-<li><strong>May 2023 - Aug 2023, CityMind Lab, Research Assistant, HKUST (Guangzhou)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 6em;"></li>
 <ul>
-    <li>Developed Data-Crawler for multimodal spatio-temporal data collection, featuring IP proxying, multithreading, encryption, and database interactions. Contributed to multiple academic papers.</li>
-    <li>Led the CityMind-Lab website development, enhancing interdisciplinary collaboration and research visibility.</li>
-</ul>
-
-<li><strong>Jun 2022 - May 2023, CloudIDE Team, Backend Engineer, Tencent (Shenzhen)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151749.png" style="width: 7em;"></li>
-<ul>
-    <li>Tencent Outstanding Newcomer, Silver in Code World, iCode Cert, 2023 Annual Performer.</li>
-    <li>Led VSCode client integration and container IDE enhancements, utilizing cloud-native tech for platform resilience.</li>
-    <li>Developed an IFTTT-based event orchestration engine, streamlined DevOps pipeline, integrated with Prometheus and Grafana.</li>
-</ul>
-
-<li><strong>Jun 2021 - Sep 2021, Fiber Team, Summer Intern, Tencent (Beijing)</strong> <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-150142.png" style="width: 3em;"></li>
-<ul>
-    <li>Enhanced QQ Efficiency Platform, improved error handling, release stability, and deployment speeds.</li>
-    <li>Overhauled QQ Quality Management Platform, upgraded from HTTP to RPC, boosting code quality and deployment efficiency.</li>
-    <li>Achieved a return offer with 11.2k lines of code and an "A" rating, securing an SP Offer.</li>
+  <li>
+    May 2024 - Now, <strong>XPENG Vis-Img Group</strong>, Algorithm Engineer.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175339.png" style="width: 8em;">
+  </li>
+  
+  <li>
+    May 2023 - Aug 2023, <strong>HKUST-GZ CityMind</strong>, Research Assistant.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-02-151042.png" style="width: 7em;">
+  </li>
+  
+  <li>
+    Jun 2022 - May 2023, <strong>Tencent PCG Tech-Center</strong>, Backend Engineer.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
+    <ul>
+      <li>CloudIDE Team, Full-time Employee, Shenzhen, 2022~2023</li>
+      <li>Fiber Team, Summer Intern, Beijing, 2021~2022</li>
+    </ul>
+  </li>
 </ul>
 
 # 📝 Publications
