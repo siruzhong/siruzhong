@@ -6,9 +6,9 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
 
 **More**:
 
++ 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📮 [Google Scholar](https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ)
 + 👉 [CSDN](https://bareth.blog.csdn.net/)
-+ 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📧 siruzhong@outlook.com
 
 
