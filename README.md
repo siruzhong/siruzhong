@@ -39,7 +39,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
   </li>
   
   <li>
-   <strong>May 2023 - Aug 2023, HKUST-GZ CityMind</strong>, Research Assistant.
+   <strong>May 2023 - Aug 2023, HKUST-GZ CityMind-Lab</strong>, Research Assistant.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-183611.png" style="width: 10em;">
   
     - Conducted research on urban computing, focusing on spatio-temporal data analysis and prediction.
