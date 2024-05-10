@@ -31,7 +31,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
 
 <ul>
   <li>
-   <strong>May 2024 - Present, XPENG Vis-Img Group</strong>, Research Intern.
+   <strong>May 2024 - Present, XPENG Vis-Img Group</strong>, Algorithm Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175339.png" style="width: 8em;">
 
     - Member of Multimodal Large Model team, contributing to dataset construction, model design, fine-tuning, deployment optimization, and research.
