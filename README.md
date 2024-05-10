@@ -31,7 +31,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
 
 <ul>
   <li>
-   <strong>May 2024 - Present, XPENG Vis-Img Group</strong>, Algorithm Engineer.
+   <strong>May 2024 - Present, XPENG Vis-Img Group</strong>, Research Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175339.png" style="width: 8em;">
 
     - Member of Multimodal Large Model team, contributing to dataset construction, model design, fine-tuning, deployment optimization, and research.
@@ -48,14 +48,14 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
   </li>
   
   <li>
-   <strong>Jun 2021 - May 2023, Tencent PCG Tech-Center</strong>, Backend Engineer.
+   <strong>Jun 2021 - May 2023, Tencent PCG Tech-Center</strong>, Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
 
     CloudIDE Team, Full-time Employee, Shenzhen, 2022~2023
       - Led the development of VSCode client integration and container IDE enhancements, improving platform resilience.
       - Developed an IFTTT-based event orchestration engine, streamlining the DevOps pipeline and integrating with Prometheus and Grafana.
 
-    Fiber Team, Summer Intern, Beijing, 2021~2022
+    Fiber Team, Software Intern, Beijing, 2021~2022
       - Enhanced the QQ Efficiency Platform, improving error handling, release stability, and deployment speeds.
       - Overhauled the QQ Quality Management Platform, upgrading from HTTP to RPC and boosting code quality and deployment efficiency.
       - Secured a return offer with an "A" rating and 11.2k lines of code, earning an SP Offer.
