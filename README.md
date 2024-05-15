@@ -34,7 +34,7 @@ Prior to my postgraduate studies, I worked as a full-time **Backend Engineer** a
    <strong>May 2024 - Present, XPENG Visual Multimodal Group</strong>, Algorithm Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175339.png" style="width: 8em;">
 
-    - Focus on the Visual Question Answering (VQA) ability for the XNGP system, encompassing both image-text and video-text modalities.
+    - Focus on the Visual Question Answering (VQA) multimodal capabilities for the XNGP system, encompassing both image-text and video-text modalities.
     - Collaborate on publications and patents in an innovative autonomous driving technology team.
   </li>
   
