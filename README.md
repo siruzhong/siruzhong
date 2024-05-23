@@ -1,8 +1,9 @@
 # 👋 Profile
 
-Hi, I'm currently pursuing my MPhil degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at [Hong Kong University of Science and Technology, Guangzhou](https://hkust-gz.edu.cn/), supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) and Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Visual-Language Multimodal Learning**, encompassing the fusion & alignment of multimodal data and fine-tuning & adaptation for various downstream tasks. Besides, I am also interested in Spatial-Temporal Data Mining. 
+Hi, I'm Siru, currently pursuing my **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at **Hong Kong University of Science and Technology (Guangzhou)**, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Before that, I worked as a full-time **Backend Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, focusing on Cloud Native Infrastructure, contributing to the performance improvement of QQ and the development of Cloud-IDE and Event Orchestration System. In 2022, I earned my Bachelor's degree in Engineering with distinction from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
-Prior to my postgraduate studies, I worked as a full-time **Software Engineer** at [Tencent](https://www.tencent.com/) from 2022 to 2023, where I enhanced the backend performance of mobile QQ and developed tools including Cloud-IDE and Event Orchestration System, focusing on **Cloud Native** and **infrastructure development**. In 2022, I earned my Bachelor's degree in Engineering with distinction from [Hefei University of Technology](https://www.hfut.edu.cn/), [School of Computer and Information](https://ci.hfut.edu.cn/).	
+
+My research centers on **Multimodal Learning**, encompassing the fusion & alignment of visual-language data and fine-tuning & adaptation for various downstream tasks. Additionally, I am also interested in **Autonomous Driving** and **Spatial-Temporal Data Mining** within Urban Computing.
 
 **More**:
 
