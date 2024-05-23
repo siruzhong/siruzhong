@@ -1,11 +1,11 @@
 # 👋 Profile
 
-Hi, I'm Siru, currently pursuing my **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at **Hong Kong University of Science and Technology (HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I am also a **Algorithm Intern** in **XPENG** Visual Multimodal Group (XBrain) of Autonomous Driving Center, working close with [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
+Hi, I'm Siru, currently pursuing my **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at **Hong Kong University of Science and Technology (HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research centers on **Multimodal Learning**, encompassing the fusion & alignment of visual-language data and fine-tuning & adaptation for various downstream tasks. Additionally, I am also interested in **Autonomous Driving** and **Spatial-Temporal Data Mining** within Urban Computing.
+
+In parallel, I serve as an **Algorithm Intern** at **XPENG** in the Visual Multimodal Group of the Autonomous Driving Center. I am actively involved in developing the [XBrain](https://www.xpeng.com/news/018b620c16468a69338c2c9e8a510658) of the [XNGP](https://www.xpeng.com/news/018cb59e827a8c57960c2c9e8b4d0339) system, under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739).
 
 Before that, I worked as a full-time **Backend Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, focusing on Cloud Native Infrastructure, contributing to the performance improvement of QQ and the development of CodeSpaces and Event Orchestration System. In 2022, I earned my Bachelor's degree in Engineering with distinction from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
-
-My research centers on **Multimodal Learning**, encompassing the fusion & alignment of visual-language data and fine-tuning & adaptation for various downstream tasks. Additionally, I am also interested in **Autonomous Driving** and **Spatial-Temporal Data Mining** within Urban Computing.
 
 **More**:
 
