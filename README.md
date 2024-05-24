@@ -34,7 +34,7 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
 
 <ul>
   <li>
-   <strong>May 2024 - Present, XPENG Visual Multimodal Group</strong>, Algorithm Intern.
+   <strong>May 2024 - Present, XPENG Visual Multimodal Group</strong>, Algorithm Research Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;">
 
     - Focus on the Visual Question Answering (VQA) multimodal capabilities for the XNGP system, encompassing both image-text and video-text modalities.
