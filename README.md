@@ -21,7 +21,7 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
   <li>
     Aug 2023 - Jul 2025, MPhil in DSA,
    <strong>The Hong Kong University of Science and Technology (GZ)</strong>
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-170835.png" style="width: 11em; vertical-align: middle;">
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024651.png" style="width: 9em; vertical-align: middle;">
   </li>
   <li>
     Sep 2018 - Jul 2022, BEng in IoT,
