@@ -12,7 +12,7 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
 + 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📮 [Google Scholar](https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ)
 + 👉 [CSDN](https://bareth.blog.csdn.net/)
-+ 📧 siruzhong@outlook.com
++ 📧 siruzhong@outlook.com | zhongsr@xiaopeng.com
 
 
 # 📖 Education
