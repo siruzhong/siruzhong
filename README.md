@@ -42,8 +42,8 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
   </li>
   
   <li>
-   <strong>May 2023 - Aug 2023, HKUST-GZ CityMind-Lab</strong>, Research Assistant.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-183611.png" style="width: 10em;">
+   <strong>May 2023 - Aug 2023, HKUST(GZ) CityMind Lab</strong>, Research Assistant.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;">
   
     - Conducted research on urban computing, focusing on spatio-temporal data analysis and prediction.
     - Developed a data crawler for collecting multimodal urban data, enhancing research data availability.
