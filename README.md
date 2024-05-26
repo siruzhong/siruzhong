@@ -37,12 +37,12 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
    <strong>May 2024 - Present, XPENG Autonomous Driving XBrain</strong>, Algorithm Research Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;">
 
-    - Focus on the Visual Question Answering (VQA) multimodal capabilities for the XNGP system, encompassing both image-text and video-text modalities.
+    - Focus on the Visual Question Answering (VQA) multimodal capabilities for the XNGP system.
     - Collaborate on publications and patents in an innovative autonomous driving technology team.
   </li>
   
   <li>
-   <strong>May 2023 - Aug 2023, HKUST(GZ) CityMind Lab</strong>, Research Assistant.
+   <strong>May 2023 - Aug 2023, HKUST(GZ) DSA&INTR Mind Lab</strong>, Research Assistant.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;">
   
     - Conducted research on urban computing, focusing on spatio-temporal data analysis and prediction.
@@ -54,13 +54,13 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
    <strong>Jun 2021 - May 2023, Tencent PCG Tech-Center</strong>, Backend Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
 
-    CloudIDE Team, Full-time Employee, Shenzhen, 2022~2023
+    CloudIDE Team, Contract, Shenzhen, Jun 2022 - May 2023
       - Led the development of VSCode client integration and container IDE enhancements, improving platform resilience.
-      - Developed an IFTTT-based event orchestration engine, streamlining the DevOps pipeline and integrating with Prometheus and Grafana.
+      - Developed an event orchestration engine, streamlining the DevOps pipeline and integrating with Prometheus and Grafana.
 
-    Fiber Team, Software Intern, Beijing, 2021~2022
+    Fiber Team, Intern, Beijing, Jun 2021 - Sep 2021
       - Enhanced the QQ Efficiency Platform, improving error handling, release stability, and deployment speeds.
-      - Overhauled the QQ Quality Management Platform, upgrading from HTTP to RPC and boosting code quality and deployment efficiency.
+      - Overhauled the QQ Quality Platform, upgrading server protocol and boosting platform stability.
       - Secured a return offer with an "A" rating and 11.2k lines of code, earning an SP Offer.
   </li>
 </ul>
