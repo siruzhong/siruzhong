@@ -55,13 +55,13 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
 
     CloudIDE Team, Contract, Shenzhen, Jun 2022 - May 2023
-      - Led the development of VSCode client integration and container IDE enhancements, improving platform resilience.
-      - Developed an event orchestration engine, streamlining the DevOps pipeline and integrating with Prometheus and Grafana.
+      - Led development of VSCode client integration and container IDE enhancements, improving platform resilience.
+      - Developed an event orchestration engine, streamlining DevOps pipeline and integrating with Prometheus and Grafana.
 
     Fiber Team, Intern, Beijing, Jun 2021 - Sep 2021
-      - Enhanced the QQ Efficiency Platform, improving error handling, release stability, and deployment speeds.
-      - Overhauled the QQ Quality Platform, upgrading server protocol and boosting platform stability.
-      - Secured a return offer with an "A" rating and 11.2k lines of code, earning an SP Offer.
+      - Enhanced QQ release system, improving error handling, release stability, and deployment speeds.
+      - Overhauled QQ package management platform, upgrading server protocol and boosting platform stability.
+      - Got return offer with "A" rating and 11.2k lines of code, earning SP Offer.
   </li>
 </ul>
 
