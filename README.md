@@ -92,7 +92,7 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
   </tr>
   <tr>
     <td width="30%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" alt="STFNN" style="max-width:100%;" />
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="STFNN" style="max-width:100%;" />
     </td>
     <td width="70%">
       <strong>Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach</strong><br> 
