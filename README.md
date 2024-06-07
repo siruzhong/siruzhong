@@ -69,10 +69,10 @@ Previously, I served as a full-time **Backend Software Engineer** at **Tencent**
 # 📝 Publications
 <table>
   <tr>
-    <td width="30%">
+    <td width="20%">
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" style="max-width:100%;" />
     </td>
-    <td width="70%">
+    <td width="80%">
       <strong>UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation</strong><br> 
       <ins><b>Siru Zhong</b></ins>, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang<br> 
       <li><i>First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.</i>[<a href="https://arxiv.org/pdf/2404.14241.pdf">Arxiv</a>]</li>
