@@ -47,7 +47,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </li>
   
   <li>
-   Jun 2022 - May 2023, <strong>Tencent PCG Tech-Center</strong>, Software Engineer.
+   Jun 2022 - May 2023, <strong>Tencent Cloud R&D Center</strong>, Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
     - Focus on cloud native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
     - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
