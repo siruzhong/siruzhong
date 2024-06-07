@@ -42,22 +42,22 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   <li>
    May 2023 - Aug 2023, <strong>HKUST-GZ CityMind Lab</strong>, Research Assistant.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;"><br>
-    - Contributed to two research papers on spatio-temporal data prediction and interpolation, accepted by IJCAI 2024.<br>
+    - Contributed to two papers on spatio-temporal data prediction and interpolation, accepted by IJCAI-24.<br>
     - Completed multi-modal spatio-temporal data crawling and laboratory website construction.
   </li>
   
   <li>
-   Jun 2021 - May 2023, <strong>Tencent PCG Tech-Center</strong>, Software Engineer.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
+   Jun 2022 - May 2023, <strong>Tencent PCG Tech-Center</strong>, Software Engineer.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
+    - Focus on cloud native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
+    - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
+  </li>
 
-    CloudIDE Team, Contract, Shenzhen, Jun 2022 - May 2023
-      - Led development of VSCode client integration and container IDE enhancements, improving platform resilience.
-      - Developed an event orchestration engine, streamlining DevOps pipeline and integrating with Prometheus and Grafana.
-
-    Fiber Team, Intern, Beijing, Jun 2021 - Sep 2021
-      - Enhanced QQ release system, improving error handling, release stability, and deployment speeds.
-      - Overhauled QQ package management platform, upgrading server protocol and boosting platform stability.
-      - Got return offer with "A" rating and 11.2k lines of code, earning SP Offer.
+  <li>
+   June 2021 - Sep 2021, <strong>Tencent PCG Tech-Center</strong>, Software Engineer.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
+    - Improved the QQ publishing system, reducing online bugs by 30%.<br>
+    - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
   </li>
 </ul>
 
