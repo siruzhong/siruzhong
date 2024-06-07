@@ -4,7 +4,7 @@ Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analyt
 
 Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center (ADC), where I conduct research related to **Visual Multimodal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
-Previously, I worked as a full-time **Backend Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
+Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
 **More**:
 
