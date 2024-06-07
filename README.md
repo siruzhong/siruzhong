@@ -54,7 +54,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </li>
 
   <li>
-   June 2021 - Sep 2021, <strong>Tencent PCG Tech-Center</strong>, Software Engineer.
+   June 2021 - Sep 2021, <strong>Tencent QQ efficiency Team</strong>, Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
     - Improved the QQ publishing system, reducing online bugs by 30%.<br>
     - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
