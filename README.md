@@ -34,19 +34,16 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 <ul>
   <li>
    May 2024 - Present, <strong>XPENG Vision-Imaging Team</strong>, Research Intern.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;">
-
-    - Focus on the Visual Multimodal capabilities for XBrain module of the XNGP system.
-    - Collaborate on publications and patents in an innovative autonomous driving technology team.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;"><br>
+    - Conducted research on Visual Multimodal within the autonomous driving visual imaging team.<br>
+    - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
   </li>
   
   <li>
    May 2023 - Aug 2023, <strong>HKUST-GZ CityMind Lab</strong>, Research Assistant.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;">
-  
-    - Conducted research on urban computing, focusing on spatio-temporal data analysis and prediction.
-    - Developed a data crawler for collecting multimodal urban data, enhancing research data availability.
-    - Constructed the CityMind Lab website, promoting interdisciplinary collaboration and research visibility.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;"><br>
+    - Contributed to two research papers on spatio-temporal data prediction and interpolation, accepted by IJCAI 2024.<br>
+    - Completed multi-modal spatio-temporal data crawling and laboratory website construction.
   </li>
   
   <li>
