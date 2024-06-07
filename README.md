@@ -2,7 +2,7 @@
 
 Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology (HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multimodal Learning** and **Data Mining**, specifically in visual-language understanding, editing, generation, and consistency verification. I also explore innovative applications within Urban Computing.
 
-Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center (ADC), where I conduct research related to **Visual Multimodal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
+Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multimodal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
 Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
@@ -33,15 +33,15 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <ul>
   <li>
-   <strong>May 2024 - Present, XPENG Autonomous Driving Center</strong>, Algorithm Research Intern.
+   May 2024 - Present, <strong>XPENG Vision-Imaging Team</strong>, Research Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;">
 
-    - Focus on the Visual Question Answering (VQA) multimodal capabilities for XBrain module of the XNGP system.
+    - Focus on the Visual Multimodal capabilities for XBrain module of the XNGP system.
     - Collaborate on publications and patents in an innovative autonomous driving technology team.
   </li>
   
   <li>
-   <strong>May 2023 - Aug 2023, HKUST(GZ) DSA&INTR Mind Lab</strong>, Research Assistant.
+   May 2023 - Aug 2023, <strong>HKUST-GZ CityMind Lab</strong>, Research Assistant.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;">
   
     - Conducted research on urban computing, focusing on spatio-temporal data analysis and prediction.
@@ -50,7 +50,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </li>
   
   <li>
-   <strong>Jun 2021 - May 2023, Tencent PCG Tech-Center</strong>, Backend Software Engineer.
+   Jun 2021 - May 2023, <strong>Tencent PCG Tech-Center</strong>, Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;">
 
     CloudIDE Team, Contract, Shenzhen, Jun 2022 - May 2023
