@@ -1,11 +1,10 @@
 # 👋 Profile
 
-Hi, I'm Siru, currently pursuing my **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at **Hong Kong University of Science and Technology (HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primally focuses on **Multimodal Learning** and **Data Mining**. Specifically, I delve into visual-language understanding, editing, generation, and consistency verification, along with exploring novel applications within Urban Computing.
+Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology (HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multimodal Learning** and **Data Mining**, specifically in visual-language understanding, editing, generation, and consistency verification. I also explore innovative applications within Urban Computing.
 
-Concurrently, I am an **Research Intern** at **XPENG** in the [XBrain](https://www.xpeng.com/news/018b620c16468a69338c2c9e8a510658) Team of the **Autonomous Driving Center (ADC)**, focusing on Visual Multimodal Learning, contribute to the development of the [XNGP](https://www.xpeng.com/news/018cb59e827a8c57960c2c9e8b4d0339) system, under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
+Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center (ADC), where I conduct research related to **Visual Multimodal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
-Previously, I served as a full-time **Backend Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, focusing on Cloud Native Infrastructure. I worked on enhancing QQ’s performance and developing tools like CodeSpaces and Workflow Engine. In 2022, I earned my Bachelor’s degree from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
-
+Previously, I worked as a full-time **Backend Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
 **More**:
 
