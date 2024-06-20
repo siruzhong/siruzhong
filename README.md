@@ -63,6 +63,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 
 # 📝 Publications
+## Multimodal
 <table>
   <tr>
     <td width="30%">
@@ -88,6 +89,21 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </tr>
   <tr>
     <td width="30%">
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanCLIP" style="max-width:100%;" />
+    </td>
+    <td width="70%">
+      <strong>UranVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
+      Xixuan Hao, Wei Chen, Yibo Yan, <ins><b>Siru Zhong</b></ins>, Kun Wang, Qingsong Wen, Yuxuan Liang<br>
+      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i>[<a href="https://arxiv.org/pdf/2403.16831.pdf">Arxiv</a>]</li>
+      Under Review
+    </td>
+  </tr>
+</table>
+
+## Data Mining
+<table>
+  <tr>
+    <td width="30%">
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="STFNN" style="max-width:100%;" />
     </td>
     <td width="70%">
@@ -106,17 +122,6 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
       Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, <ins><b>Siru Zhong</b></ins>, Kun Wang, Shifen Cheng, Yuxuan Liang<br>
       <li><i>A pioneering Spatio-Temporal Field Neural Network model integrates two distinct perspectives on space and time to perform air quality inference.</i>[<a href="https://arxiv.org/pdf/2403.02354.pdf">Arxiv</a>]</li>
       The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanCLIP" style="max-width:100%;" />
-    </td>
-    <td width="70%">
-      <strong>UranVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
-      Xixuan Hao, Wei Chen, Yibo Yan, <ins><b>Siru Zhong</b></ins>, Kun Wang, Qingsong Wen, Yuxuan Liang<br>
-      <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i>[<a href="https://arxiv.org/pdf/2403.16831.pdf">Arxiv</a>]</li>
-      Under Review
     </td>
   </tr>
 </table>
