@@ -19,7 +19,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 <ul>
   <li>
     Aug 2023 - Jul 2025, MPhil in DSA,
-   <strong>The Hong Kong University of Science and Technology (GZ)</strong>
+   <strong>The Hong Kong University of Science and Technology</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024651.png" style="width: 10em; vertical-align: middle;">
   </li>
   <li>
