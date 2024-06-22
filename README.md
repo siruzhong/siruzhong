@@ -23,7 +23,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024651.png" style="width: 10em; vertical-align: middle;">
   </li>
   <li>
-    Sep 2018 - Jul 2022, BEng in CS,
+    Sep 2018 - Jul 2022, BEng in IoT,
    <strong>Hefei University of Technology</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 8em; vertical-align: middle;">
   </li>
