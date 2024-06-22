@@ -33,7 +33,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <ul>
   <li>
-   May 2024 - Present, <strong>XPENG Vision-Imaging Team</strong>, Research Intern.
+   May 2024 - Present, <strong>XPENG Autonomous Driving Center</strong>, Research Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;"><br>
     - Conducted research on Visual Multimodal within the autonomous driving visual imaging team.<br>
     - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
@@ -47,14 +47,14 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </li>
   
   <li>
-   Jun 2022 - May 2023, <strong>Tencent Cloud R&D Team</strong>, Software Engineer.
+   Jun 2022 - May 2023, <strong>Tencent CloudDev Team</strong>, Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
     - Focus on cloud native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
     - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
   </li>
 
   <li>
-   June 2021 - Sep 2021, <strong>Tencent QQ efficiency Team</strong>, Software Intern
+   June 2021 - Sep 2021, <strong>Tencent QQ efficiency Center</strong>, Software Intern
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
     - Improved the QQ publishing system, reducing online bugs by 30%.<br>
     - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
