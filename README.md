@@ -29,7 +29,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </li>
 </ul>
 
-# 💻 Work Experience
+# 💻 Experience
 
 <ul>
   <li>
@@ -127,7 +127,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 </table>
 
 
-# 🏆 Honors & Awards
+# 🏆 Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
 - 2023: Outstanding Students of the Red Bird Challenge Camp at HKUST(GZ)
 - 2022: Tencent iCode Certification
