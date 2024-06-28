@@ -63,7 +63,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 
 # 📝 Publications
-## Multimodal
+## Multi-modal
 <table>
   <tr>
     <td width="30%">
