@@ -2,7 +2,7 @@
 
 Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology(HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing.
 
-Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multimodal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
+Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multi-modal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
 Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **Hefei University of Technology (HFUT)**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
@@ -35,7 +35,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   <li>
    May 2024 - Present, <strong>XPENG Autonomous Driving Center</strong>, Research Intern.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;"><br>
-    - Conducted research on Visual Multimodal within the autonomous driving visual imaging team.<br>
+    - Conducted research on Visual Multi-modal within the autonomous driving visual imaging team.<br>
     - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
   </li>
   
@@ -70,7 +70,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" style="max-width:100%;" />
     </td>
     <td width="70%">
-      <strong>UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation</strong><br> 
+      <strong>Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation</strong><br> 
       <ins><b>Siru Zhong</b></ins>, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang<br> 
       <li><i>First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.</i>[<a href="https://arxiv.org/pdf/2404.14241.pdf">Arxiv</a>]</li>
       Under Review
@@ -81,7 +81,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" style="max-width:100%;" />
     </td>
     <td width="70%">
-      <strong>UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
+      <strong>Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web</strong><br> 
       Yibo Yan, Haomin Wen, <ins><b>Siru Zhong</b></ins>, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang<br> 
       <li><i>First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.</i>[<a href="https://arxiv.org/pdf/2310.18340.pdf">Arxiv</a>]</li>
       The International World Wide Web Conference 2024, Singapore (WWW'24)
@@ -92,7 +92,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
       <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanCLIP" style="max-width:100%;" />
     </td>
     <td width="70%">
-      <strong>UranVLP: A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
+      <strong>A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
       Xixuan Hao, Wei Chen, Yibo Yan, <ins><b>Siru Zhong</b></ins>, Kun Wang, Qingsong Wen, Yuxuan Liang<br>
       <li><i>First urban region representation learning framework that explores multi-granularity cross-modal alignment.</i>[<a href="https://arxiv.org/pdf/2403.16831.pdf">Arxiv</a>]</li>
       Under Review
