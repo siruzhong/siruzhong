@@ -1,6 +1,6 @@
 # 👋 Profile
 
-Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology(HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multimodal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing.
+Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology(HKUST)**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing.
 
 Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multimodal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
