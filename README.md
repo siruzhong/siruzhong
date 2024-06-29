@@ -31,28 +31,28 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <ul>
   <li>
-   May 2024 - Present, <strong>XPENG Autonomous Driving Center</strong>, Research Intern.
+   <strong>Research Intern — Autonomous Driving Center</strong>, <em>XPeng Motors</em>, 2024.05 - Present.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;"><br>
     - Conducted research on Visual Multi-modal within the autonomous driving visual imaging team.<br>
     - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
   </li>
   
   <li>
-   May 2023 - Aug 2023, <strong>HKUST-GZ CityMind Lab</strong>, Research Assistant.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024524.png" style="width: 7em;"><br>
+   <strong>Research Assistant — CityMind Lab</strong>, <em>HKUST-GZ</em>, 2023.05 - 2023.08.
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 7em;"><br>
     - Contributed to two papers on spatio-temporal data prediction and interpolation, accepted by IJCAI-24.<br>
     - Completed multi-modal spatio-temporal data crawling and laboratory website construction.
   </li>
   
   <li>
-   Jun 2022 - May 2023, <strong>Tencent CloudDev Team</strong>, Software Engineer.
+   <strong>Software Engineer — PCG CloudDev Center</strong>, <em>Tencent</em>, 2022.07 - 2023.05.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
     - Focus on cloud-native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
     - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
   </li>
 
   <li>
-   June 2021 - Sep 2021, <strong>Tencent QQ efficiency Center</strong>, Software Intern
+   <strong>Software Intern — PCG Tech Center</strong>, <em>Tencent</em>, 2021.06 - 2021.09
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
     - Improved the QQ publishing system, reducing online bugs by 30%.<br>
     - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
