@@ -39,7 +39,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   
   <li>
    <strong>Research Assistant — CityMind Lab</strong>, <em>HKUST-GZ</em>, 2023.05 - 2023.08.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 7em;"><br>
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-150454.png" style="width: 7em;"><br>
     - Contributed to two papers on spatio-temporal data prediction and interpolation, accepted by IJCAI-24.<br>
     - Completed multi-modal spatio-temporal data crawling and laboratory website construction.
   </li>
@@ -57,8 +57,8 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
     - Improved the QQ publishing system, reducing online bugs by 30%.<br>
     - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
   </li>
+  
 </ul>
-
 
 # 📝 Publications
 ## Multi-modal
@@ -87,7 +87,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   </tr>
   <tr>
     <td width="30%">
-      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanCLIP" style="max-width:100%;" />
+      <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" style="max-width:100%;" />
     </td>
     <td width="70%">
       <strong>A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction</strong><br> 
