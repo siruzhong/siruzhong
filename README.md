@@ -19,8 +19,8 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 <ul>
   <li>
     Aug 2023 - Jul 2025, MPhil in DSA,
-   <strong>The Hong Kong University of Science and Technology</strong>
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-024651.png" style="width: 10em; vertical-align: middle;">
+   <strong>The Hong Kong University of Science and Technology, Guangzhou</strong>
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 9em; vertical-align: middle;">
   </li>
   <li>
     Sep 2018 - Jul 2022, BEng in IoT,
@@ -49,7 +49,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   <li>
    Jun 2022 - May 2023, <strong>Tencent CloudDev Team</strong>, Software Engineer.
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
-    - Focus on cloud native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
+    - Focus on cloud-native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
     - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
   </li>
 
