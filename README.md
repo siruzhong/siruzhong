@@ -11,7 +11,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 + 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
 + 📮 [Google Scholar](https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ)
 + 👉 [CSDN](https://bareth.blog.csdn.net/)
-+ 📧 siruzhong@outlook.com | zhongsr@xiaopeng.com
++ 📧 siruzhong@outlook.com
 
 
 # 📖 Education
