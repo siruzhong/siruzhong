@@ -18,11 +18,11 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <ul>
   <li>
-    2023 - 2025, M.Phil in Data Science and Analytics, <strong>HKUST-GZ</strong>
+    2023 - 2025, M.Phil in Data Science and Analytics, <strong>Hong Kong University of Science and Technology</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 9em; vertical-align: middle;"><br>
   </li>
   <li>
-    2018 - 2022, B.Eng in School of Computer and Information, <strong>HFUT</strong>
+    2018 - 2022, B.Eng in School of Computer and Information, <strong>Hefei University of Technology</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 8em; vertical-align: middle;">
   </li>
 </ul>
