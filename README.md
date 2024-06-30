@@ -1,10 +1,10 @@
 # 👋 Profile
 
-Hi, I'm Siru, currently pursuing an **MPhil** degree in Data Science and Analytics at the **[HKUST (Guangzhou)](http://dsa.hkust-gz.edu.cn/)**, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing.
+Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **HKUST(GZ)**, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing.
 
 Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multi-modal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
-Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **[HFUT](https://ci.hfut.edu.cn/)**, School of Computer and Information.
+Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023. During my time there, I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my Bachelor's degree in 2022 from **HFUT**, [School of Computer and Information](https://ci.hfut.edu.cn/).
 
 **More**:
 
@@ -18,11 +18,11 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <ul>
   <li>
-    2023 - 2025, M.Phil in Data Science and Analytics, <strong>Hong Kong University of Science and Technology</strong>
+    2023 - 2025, M.Phil in DSA, <strong>Hong Kong University of Science and Technology (Guangzhou)</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 9em; vertical-align: middle;"><br>
   </li>
   <li>
-    2018 - 2022, B.Eng in School of Computer and Information, <strong>Hefei University of Technology</strong>
+    2018 - 2022, B.Eng in SCI, <strong>Hefei University of Technology</strong>
     <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 8em; vertical-align: middle;">
   </li>
 </ul>
