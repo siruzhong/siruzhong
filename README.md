@@ -111,7 +111,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 ## Multi-modal
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="200" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="220" align="left" /> 
 
 **Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation** <br>
 *Under Review* [Arxiv](https://arxiv.org/pdf/2404.14241.pdf) <br>
@@ -119,7 +119,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 *First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.*  
 
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="200" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="220" align="left" /> 
 
 **Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web** <br>
 *The International World Wide Web Conference 2024, Singapore (WWW'24)* [Link](https://arxiv.org/pdf/2310.18340.pdf) <br>
@@ -127,7 +127,7 @@ Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roge
 *First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.* 
 
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" width="200" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" width="220" align="left" /> 
 
 **A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction** <br>
 *Under Review* [Arxiv](https://arxiv.org/pdf/2403.16831.pdf) <br>
