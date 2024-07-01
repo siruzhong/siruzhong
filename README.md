@@ -115,7 +115,8 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 **Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation** <br>
 *Under Review* [Arxiv](https://arxiv.org/pdf/2404.14241.pdf) <br>
-**Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang  
+**Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang
+
 *First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.*  
 
 
@@ -124,6 +125,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 **Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web** <br>
 *The International World Wide Web Conference 2024, Singapore (WWW'24)* [Link](https://arxiv.org/pdf/2310.18340.pdf) <br>
 Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang  
+
 *First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.* 
 
 
@@ -131,7 +133,8 @@ Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roge
 
 **A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction** <br>
 *Under Review* [Arxiv](https://arxiv.org/pdf/2403.16831.pdf) <br>
-Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang  
+Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang 
+
 *First urban region representation learning framework that explores multi-granularity cross-modal alignment.*  
 
 
