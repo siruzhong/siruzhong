@@ -129,7 +129,7 @@ Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roge
 
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" width="200" align="left" /> 
 
-**A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction**  
+**A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction**
 *Under Review* [Arxiv](https://arxiv.org/pdf/2403.16831.pdf) <br>
 Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang  
 *First urban region representation learning framework that explores multi-granularity cross-modal alignment.*  
