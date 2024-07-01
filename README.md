@@ -116,7 +116,6 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 **Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation** <br>
 *Under Review* [Arxiv](https://arxiv.org/pdf/2404.14241.pdf) <br>
 **Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang
-
 *First-ever cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.*  
 
 
@@ -125,22 +124,20 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 **Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web** <br>
 *The International World Wide Web Conference 2024, Singapore (WWW'24)* [Link](https://arxiv.org/pdf/2310.18340.pdf) <br>
 Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang  
-
 *First-ever LLM-enhanced framework that integrates the knowledge of textual modality into urban imagery profiling.* 
 
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" width="200" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" width="200" height="100" align="left" /> 
 
 **A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction** <br>
 *Under Review* [Arxiv](https://arxiv.org/pdf/2403.16831.pdf) <br>
 Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang 
-
 *First urban region representation learning framework that explores multi-granularity cross-modal alignment.*  
 
 
 ## Data Mining
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" height="160" align="left" /> 
 
 **Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach** <br>
 *The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* [Link](https://arxiv.org/pdf/2405.18910) <br>
@@ -148,12 +145,11 @@ Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Ro
 *A novel deep-learning model for real-time parking availability in Singapore, analyzing external factors, introducing a new dataset, and improving prediction accuracy.*  
  
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" alt="STFNN" width="200" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" alt="STFNN" width="200" height="120" align="left" /> 
 
 **Spatio-Temporal Field Neural Networks for Air Quality Inference** <br>
 *The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* [Link](https://arxiv.org/pdf/2403.02354.pdf) <br>
 Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang  
-
 *A pioneering Spatio-Temporal Field Neural Network model integrates two distinct perspectives on space and time to perform air quality inference.*  
 
 # 🏆 Awards
