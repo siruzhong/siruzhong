@@ -1,10 +1,10 @@
 # 👋 Profile
 
-Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 6em; vertical-align: middle;">
+Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 5em; vertical-align: middle;">
 
 Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multi-modal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
-Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, where I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my **BEng** degree in 2022 from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 6em; vertical-align: middle;">
+Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, where I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my **BEng** degree in 2022 from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 5em; vertical-align: middle;">
 
 **More**:
 
@@ -18,28 +18,28 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 <ul>
   <li>
    <strong>Research Intern — Autonomous Driving Center</strong>, <em>XPeng Motors</em>, 2024.05 - Present.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 7em;"><br>
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 5em;"><br>
     - Conducted research on Visual Multi-modal within the autonomous driving visual imaging team.<br>
     - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
   </li>
   
   <li>
    <strong>Research Assistant — CityMind Lab</strong>, <em>HKUST-GZ</em>, 2023.05 - 2023.08.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-150454.png" style="width: 7em;"><br>
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-150454.png" style="width: 5em;"><br>
     - Contributed to two papers on spatio-temporal data prediction and interpolation, accepted by IJCAI-24.<br>
     - Completed multi-modal spatio-temporal data crawling and laboratory website construction.
   </li>
   
   <li>
    <strong>Software Engineer — PCG CloudDev Center</strong>, <em>Tencent</em>, 2022.07 - 2023.05.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 4em;"><br>
     - Focus on cloud-native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
     - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
   </li>
 
   <li>
    <strong>Software Intern — PCG Tech Center</strong>, <em>Tencent</em>, 2021.06 - 2021.09.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 5em;"><br>
+    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 4em;"><br>
     - Improved the QQ publishing system, reducing online bugs by 30%.<br>
     - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
   </li>
