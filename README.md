@@ -6,8 +6,6 @@ Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center,
 
 Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, where I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my **BEng** degree in 2022 from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 5em; vertical-align: middle;">
 
-<a href="https://github.com/siruzhong"><img src="https://github-stats-alpha.vercel.app/api?username=siruzhong&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
-
 # 📍 Experience
 
 <ul>
@@ -119,3 +117,6 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <!-- # GitHub stats
 [![Siru's GitHub stats](https://github-readme-stats.vercel.app/api?username=siruzhong)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/siruzhong"><img src="https://github-stats-alpha.vercel.app/api?username=siruzhong&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
+
