@@ -140,7 +140,7 @@ Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan L
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" align="left" /> 
 
 **Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach**
-*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* [Link](https://arxiv.org/pdf/2405.18910) <be>
+*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* [Link](https://arxiv.org/pdf/2405.18910) <br>
 Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Roger Zimmermann, Yuxuan Liang  
 *A novel deep-learning model for real-time parking availability in Singapore, analyzing external factors, introducing a new dataset, and improving prediction accuracy.*  
  
