@@ -8,7 +8,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <a href="https://github.com/siruzhong"><img src="https://github-stats-alpha.vercel.app/api?username=siruzhong&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="" />
 
-# 💻 Experience
+# 🗃️ Experience
 
 <ul>
   <li>
