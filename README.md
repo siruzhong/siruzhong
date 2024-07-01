@@ -148,7 +148,7 @@ Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Ro
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" alt="STFNN" width="200" align="left" /> 
 
 **Spatio-Temporal Field Neural Networks for Air Quality Inference**  
-*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* [Link](https://arxiv.org/pdf/2403.02354.pdf)   <be>
+*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* [Link](https://arxiv.org/pdf/2403.02354.pdf) <br>
 Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang  
 *A pioneering Spatio-Temporal Field Neural Network model integrates two distinct perspectives on space and time to perform air quality inference.*  
 
