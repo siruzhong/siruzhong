@@ -1,4 +1,4 @@
-# 👋 Profile
+# 👋 Profile <a href="https://linkedin.com/in/siruzhong"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ"> <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a><a href="https://bareth.blog.csdn.net/"> <img src="https://img.shields.io/badge/CSDN-%23EE4444.svg?&style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a><a href="mailto:siruzhong@outlook.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research primarily focuses on **Multi-modal** and **Data Mining**, specifically in Visual-Language Understanding, Editing, Generation, and Consistency Verification. I also explore innovative applications within Urban Computing. <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 5em; vertical-align: middle;">
 
@@ -6,12 +6,7 @@ Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center,
 
 Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, where I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my **BEng** degree in 2022 from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 5em; vertical-align: middle;">
 
-**More**:
 
-+ 🎓 [LinkedIn](https://linkedin.com/in/siruzhong)
-+ 📮 [Google Scholar](https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ)
-+ 👉 [CSDN](https://bareth.blog.csdn.net/)
-+ 📧 siruzhong@outlook.com
 
 # 💻 Experience
 
