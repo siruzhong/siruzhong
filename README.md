@@ -15,7 +15,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   <br>Investigating methods for generating and inferring multimodal content, and enhancing performance through prompt learning strategies.
 
 - **Data Mining Applications**
-  <br>Applying data mining techniques to uncover patterns, insights, and valuable information from large datasets across various domains.
+  <br>Applying data mining techniques to uncover patterns and valuable insights from large datasets across various domains.
 
 
 <!--<a href="https://github.com/siruzhong">
