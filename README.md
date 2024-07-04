@@ -9,18 +9,18 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 > My research interests primarily focus on Multi-modal and Data Mining, including:
 
 - **Cross-modal Alignment, Matching, and Transfer Learning**
-  - Exploring techniques for aligning and matching different modalities (e.g., images, video, text) and transferring knowledge across them.
+  <br>Exploring techniques for aligning and matching different modalities (e.g., images, video, text) and transferring knowledge across them.
 
 - **Multimodal Generation, Inference, and Prompt Learning**
-  - Investigating methods for generating and inferring multimodal content, and enhancing performance through prompt learning strategies.
+  <br>Investigating methods for generating and inferring multimodal content, and enhancing performance through prompt learning strategies.
 
 - **Data Mining Applications**
-  - Applying data mining techniques to uncover patterns, insights, and valuable information from large datasets across various domains.
+  <br>Applying data mining techniques to uncover patterns, insights, and valuable information from large datasets across various domains.
 
 
-<a href="https://github.com/siruzhong">
+<!--<a href="https://github.com/siruzhong">
   <img src="https://github-stats-alpha.vercel.app/api?username=siruzhong&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="GitHub Stats" style="width: 400px; height: auto;" />
-</a>
+</a>-->
 
 # 📍 Experience
 
