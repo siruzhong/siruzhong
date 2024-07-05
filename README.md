@@ -6,7 +6,7 @@ Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center,
 
 Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, where I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my **BEng** degree in 2022 from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 5em; vertical-align: middle;">
 
-# 🏷️ Research Interests
+# 🏷️ Research
 
 > My research interests primarily focus on Multi-modal and Data Mining, including:
 
