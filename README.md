@@ -8,10 +8,10 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 > My research interests primarily focus on Multi-modal and Data Mining, including:
 
-- **Cross-modal Alignment, Matching, and Transfer Learning**
+- **Cross-modal Alignment, Evaluation, and Transfer Learning**
   <br>Exploring techniques for aligning, matching, and transferring knowledge across different modalities (e.g., images, video, text) to enhance model generalization, consistency, and versatility.
-- **Multimodal Generation, Inference, and Prompt Learning**
-  <br>Investigating methods for generating and inferring multimodal content, and enhancing model creativity, understanding, and fine-grained control through prompt learning strategies.
+- **Multimodal Content Generation, Inference, and Prompt Learning**
+  <br>Investigate methods for generating and inferring multimodal data to enhance model creativity, understanding, and fine-grained control. Apply prompt-based learning strategies to improve the quality and security of AI-generated content, ensuring its trustworthiness and consistency.
 - **Data Mining Applications**
   <br>Applying data mining techniques to uncover patterns and valuable insights from large datasets across various domains.
 
