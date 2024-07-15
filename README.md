@@ -8,7 +8,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 # 🏷️ Research
 
-> My research interests primarily focus on Multi-modal and Data Mining, including:
+> My research interests primarily focus on Multi-modal, AIGC and Data Mining, including:
 
 - **Multi-modal Content Generation, Inference, and Prompt Learning**
   <br>1) Investigate methods to improve the quality, controllability, and security of AI-generated content (AIGC), ensuring trustworthiness and consistency. 2) Fusion of multimodal information for better context understanding and reasoning. 3) Enhance multimodal generality and fine-grained perception through prompt learning.
