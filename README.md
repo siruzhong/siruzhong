@@ -1,11 +1,12 @@
 # 👋 Profile <a href="https://linkedin.com/in/siruzhong"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://scholar.google.co.uk/citations?user=3KMb5mUAAAAJ"> <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a><a href="https://bareth.blog.csdn.net/"> <img src="https://img.shields.io/badge/CSDN-%23EE4444.svg?&style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a><a href="mailto:siruzhong@outlook.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
-Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 5em; vertical-align: middle;"> 
+Hi, I'm Siru, currently pursuing an **MPhil** degree in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at the **Hong Kong University of Science and Technology**, Guangzhou, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) and [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 5em; vertical-align: middle;"> My research interests primarily focus on Multi-modal, AI Generated Content, and Data Mining, specifically including vision-language editing, inference, prompt learning, alignment, and transfer learning. I aim to develop a controllable, generalizable, versatile, and reliable multi-modal system.
 
 Concurrently, I am a **Research Intern** at **XPENG** Autonomous Driving Center, where I conduct research related to **Visual Multi-modal** and contribute to the development of the **XNGP** (Navigation Guided Pilot), under the mentorship of [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739). 
 
 Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tech-Center from 2022 to 2023, where I focused on **Cloud Native Infrastructure**, enhancing QQ’s performance, and developing tools such as CodeSpaces and Workflow Engine. I earned my **BEng** degree in 2022 from **Hefei University of Technology**, [School of Computer and Information](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 5em; vertical-align: middle;">
 
+<!--
 # 🏷️ Research
 
 > My research interests primarily focus on Multi-modal, AIGC and Data Mining, including:
@@ -18,7 +19,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
   <br>Applying data mining techniques to uncover patterns and valuable insights from large datasets across various domains.
 
 
-<!--<a href="https://github.com/siruzhong">
+<a href="https://github.com/siruzhong">
   <img src="https://github-stats-alpha.vercel.app/api?username=siruzhong&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF" alt="GitHub Stats" style="width: 400px; height: auto;" />
 </a>-->
 
