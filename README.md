@@ -42,7 +42,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 # 📝 Publications
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="100" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="100" height="80" align="left" /> 
 
 [Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf) <br>
 *ACM International Conference on Multimedia 2024, Melbourne (MM'24)* <br>
