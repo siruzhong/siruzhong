@@ -49,6 +49,9 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 **Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang <br>
 
 
+<br clear="left"/>
+
+
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="200" height="100" align="left" /> 
 
 [Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web](https://arxiv.org/pdf/2310.18340.pdf) <br>
