@@ -47,7 +47,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 [Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf) <br>
 *ACM International Conference on Multimedia 2024, Melbourne (MM'24)* <br>
 **Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang <br>
-*First cross-domain framework that integrates the power of LMM and SAM into satellite image-text retrieval.*
+*First cross-domain framework integrating LMM and SAM for satellite image-text retrieval.*
 
 
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="150" align="left" /> 
