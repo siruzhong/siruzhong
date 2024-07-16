@@ -51,8 +51,6 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 | <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" width="200" /> | [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://arxiv.org/pdf/2403.02354.pdf)<br>*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*<br>Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang |
 
 
-
-
 # 🏆 Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
 - 2023: Outstanding Students of the Red Bird Challenge Camp at HKUST(GZ)
