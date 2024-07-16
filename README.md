@@ -70,7 +70,7 @@ Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan L
 
 ## Data Mining
 
-<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" height="160" align="left" /> 
+<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" height="150" align="left" /> 
 
 **[Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach](https://arxiv.org/pdf/2405.18910)** <br>
 *The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* <br>
