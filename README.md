@@ -42,8 +42,6 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 # 📝 Publications
 
-## Multi-modal
-
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="200" align="left" /> 
 
 [Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf) <br>
@@ -67,8 +65,6 @@ Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roge
 Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang <br>
 *First urban region representation learning framework that explores multi-granularity cross-modal alignment.*
 
-
-## Data Mining
 
 <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" height="140" align="left" /> 
 
