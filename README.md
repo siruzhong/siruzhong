@@ -42,7 +42,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 # 📝 Publications
 
-[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="200" height="100" align="left" />](https://arxiv.org/pdf/2404.14241.pdf)
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="200" align="left" />](https://arxiv.org/pdf/2404.14241.pdf)
 
 **[Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf)**  
 *ACM International Conference on Multimedia 2024, Melbourne (MM'24)*  
@@ -50,7 +50,7 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <br clear="left"/>
 
-[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="200" height="100" align="left" />](https://arxiv.org/pdf/2310.18340.pdf)
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="200" align="left" />](https://arxiv.org/pdf/2310.18340.pdf)
 
 **[Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web](https://arxiv.org/pdf/2310.18340.pdf)**  
 *The International World Wide Web Conference 2024, Singapore (WWW'24)*  
