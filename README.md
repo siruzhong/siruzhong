@@ -80,6 +80,50 @@ Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Ro
 *The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)* <br>
 Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang <br>
 
+
+# 📝 Publications
+
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" alt="UrbanCross" width="200" align="left" />](https://arxiv.org/pdf/2404.14241.pdf)
+
+**[Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf)**  
+*ACM International Conference on Multimedia 2024, Melbourne (MM'24)*  
+**Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang
+
+<br clear="left"/>
+
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" alt="UrbanCLIP" width="200" align="left" />](https://arxiv.org/pdf/2310.18340.pdf)
+
+**[Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web](https://arxiv.org/pdf/2310.18340.pdf)**  
+*The International World Wide Web Conference 2024, Singapore (WWW'24)*  
+Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
+
+<br clear="left"/>
+
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" alt="UrbanVLP" width="200" align="left" />](https://arxiv.org/pdf/2403.16831.pdf)
+
+**[A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/pdf/2403.16831.pdf)**  
+*Under Review*  
+Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang
+
+<br clear="left"/>
+
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" alt="Parking Prediction" width="200" align="left" />](https://arxiv.org/pdf/2405.18910)
+
+**[Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach](https://arxiv.org/pdf/2405.18910)**  
+*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*  
+Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
+
+<br clear="left"/>
+
+[<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" alt="STFNN" width="200" align="left" />](https://arxiv.org/pdf/2403.02354.pdf)
+
+**[Spatio-Temporal Field Neural Networks for Air Quality Inference](https://arxiv.org/pdf/2403.02354.pdf)**  
+*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*  
+Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang
+
+<br clear="left"/>
+
+
 # 🏆 Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
 - 2023: Outstanding Students of the Red Bird Challenge Camp at HKUST(GZ)
