@@ -10,29 +10,29 @@ Previously, I worked as a full-time **Software Engineer** at **Tencent** PCG Tec
 
 <ul>
   <li>
-   <strong>Research Intern — Autonomous Driving Center</strong>, <em>XPeng Motors</em>, 2024.05 - Present.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 5em;"><br>
+   <strong>Research Intern</strong> | Autonomous Driving Center, <em><a href="https://www.xpeng.com/" target="_blank">XPeng Motors</a></em>, 2024.05 - Present.<br>
+    <!--<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 5em;"><br>-->
     - Conducted research on Visual Multi-modal within the autonomous driving visual imaging team.<br>
     - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
   </li>
   
   <li>
-   <strong>Research Assistant — CityMind Lab</strong>, <em>HKUST-GZ</em>, 2023.05 - 2023.08.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-150454.png" style="width: 5em;"><br>
+   <strong>Research Assistant</strong> | CityMind Lab, <em><a href="https://citymind.top/" target="_blank">HKUST-GZ</a></em>, 2023.05 - 2023.08.<br>
+    <!--<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-150454.png" style="width: 5em;"><br>-->
     - Contributed to two papers on spatio-temporal data prediction and interpolation, accepted by IJCAI-24.<br>
     - Completed multi-modal spatio-temporal data crawling and laboratory website construction.
   </li>
   
   <li>
-   <strong>Software Engineer — PCG CloudDev Center</strong>, <em>Tencent</em>, 2022.07 - 2023.05.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 4em;"><br>
+   <strong>Software Engineer</strong> | CloudIDE Team, <em><a href="https://www.tencent.com/" target="_blank">Tencent</a></em>, 2022.07 - 2023.05.<br>
+    <!--<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 4em;"><br>-->
     - Focus on cloud-native infrastructure, develop event orchestration engine & cloud shared code development platform.<br>
     - Awarded with Tencent Excellent Newcomer & CodeWorld Project Silver Team & iCode Certification.
   </li>
 
   <li>
-   <strong>Software Intern — PCG Tech Center</strong>, <em>Tencent</em>, 2021.06 - 2021.09.
-    <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 4em;"><br>
+   <strong>Software Intern</strong> | Fiber Team, <em><a href="https://www.tencent.com/" target="_blank">Tencent</a></em>, 2021.06 - 2021.09.<br>
+    <!--<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-07-175529.png" style="width: 4em;"><br>-->
     - Improved the QQ publishing system, reducing online bugs by 30%.<br>
     - Received "A" rating in summer internship assessment & Earned a full-time SP Offer.
   </li>
