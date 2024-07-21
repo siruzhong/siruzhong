@@ -4,7 +4,7 @@ Hi, I'm currently pursuing my **MPhil** degree in [Data Science and Analytics](h
 
 My research interests lie in **Multimodal Learning** and **Spatio-Temporal Data Mining**, with a particular focus on visual-language pre-training, generative models, and innovative applications in Urban Computing.
 
-I have extensive experience in both industry and academia. Previously, I was a **Algorithm Research Intern** at the **XPENG** Autonomous Driving Center, where I focused on visual multimodal tasks and contributed to the development of the XNGP (Navigation Guided Pilot) System. Additionally, I have a full year of experience as a full-time **Software Engineer** at **Tencent** PCG Tech-Center, where I contributed to the development of QQ’s performance, and worked on Cloud Native Infrastructure Tools (e.g., CodeSpaces and Workflow Engine).
+I have extensive experience in both industry and academia. Previously, I was an **Algorithm Research Intern** at the **XPENG** Autonomous Driving Center, where I focused on visual multimodal tasks and contributed to the development of the XNGP (Navigation Guided Pilot) System. Additionally, I spent a year as a full-time **Software Engineer** at **Tencent** PCG Tech-Center, enhancing QQ’s performance and working on Cloud Native Infrastructure Tools such as CodeSpaces and Workflow Engine.
 
 
 # 📍 Experience
