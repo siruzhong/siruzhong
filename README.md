@@ -7,6 +7,16 @@ My research interests lie in **_Multimodal Learning_** and **_Spatio-Temporal Da
 I have extensive experience in both industry and academia. Previously, I was an **_Algorithm Research Intern_** at the **_Autonomous Driving Center, XPeng Motors_**, where I focused on visual multimodal tasks and contributed to the development of the XNGP (Navigation Guided Pilot) System. Additionally, I spent a year as a full-time **_Software Engineer_** at **_PCG Tech-Center, Tencent_**, enhancing QQ’s performance and working on Cloud Native Infrastructure Tools such as CodeSpaces and Workflow Engine.
 
 
+# 📝 Publications
+
+|Architecture|Basic Info|
+| --- | --- |
+| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" width="200" /> | [Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf)<br>*ACM International Conference on Multimedia 2024, Melbourne (MM'24)*<br>**Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang |
+| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" width="200" /> | [Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web](https://arxiv.org/pdf/2310.18340.pdf)<br>*The International World Wide Web Conference 2024, Singapore (WWW'24)*<br>Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang |
+| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" width="200" /> | [A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/pdf/2403.16831.pdf)<br>*Under Review*<br>Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang |
+| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" width="200" /> | [Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach](https://arxiv.org/pdf/2405.18910)<br>*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*<br>Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Roger Zimmermann, Yuxuan Liang |
+| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" width="200" /> | [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://arxiv.org/pdf/2403.02354.pdf)<br>*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*<br>Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang |
+
 # 📍 Experience
 
 <ul>
@@ -39,18 +49,6 @@ I have extensive experience in both industry and academia. Previously, I was an 
   </li>
   
 </ul>
-
-
-# 📝 Publications
-
-|Architecture|Basic Info|
-| --- | --- |
-| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-04-23-033802.png" width="200" /> | [Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation](https://arxiv.org/pdf/2404.14241.pdf)<br>*ACM International Conference on Multimedia 2024, Melbourne (MM'24)*<br>**Siru Zhong**, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang |
-| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-01-24-160852.png" width="200" /> | [Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web](https://arxiv.org/pdf/2310.18340.pdf)<br>*The International World Wide Web Conference 2024, Singapore (WWW'24)*<br>Yibo Yan, Haomin Wen, **Siru Zhong**, Wei Chen, Haodong Chen, Qingsong Wen, Roger Zimmermann, Yuxuan Liang |
-| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-170045.png" width="200" /> | [A Multi-Granularity Vision-Language Pre-Trained Model for Urban Indicator Prediction](https://arxiv.org/pdf/2403.16831.pdf)<br>*Under Review*<br>Xixuan Hao, Wei Chen, Yibo Yan, **Siru Zhong**, Kun Wang, Qingsong Wen, Yuxuan Liang |
-| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-03-142808.png" width="200" /> | [Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach](https://arxiv.org/pdf/2405.18910)<br>*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*<br>Huaiwu Zhang, Yutong Xia, **Siru Zhong**, Kun Wang, Zekun Tong, Qingsong Wen, Roger Zimmermann, Yuxuan Liang |
-| <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-03-14-104146.png" width="200" /> | [Spatio-Temporal Field Neural Networks for Air Quality Inference](https://arxiv.org/pdf/2403.02354.pdf)<br>*The International Joint Conference on Artificial Intelligence 2024, Korea (IJCAI'24)*<br>Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, **Siru Zhong**, Kun Wang, Shifen Cheng, Yuxuan Liang |
-
 
 # 🏆 Awards
 - 2023: Best Project Award in Data Science Computing (DSAA 5021) at HKUST(GZ)
