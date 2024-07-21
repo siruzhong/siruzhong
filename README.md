@@ -2,9 +2,9 @@
 
 Hi, I'm currently pursuing my **MPhil** degree in [_Data Science and Analytics_](http://dsa.hkust-gz.edu.cn/) at the **_Hong Kong University of Science and Technology (Guangzhou)_**, under the guidance of [Prof. Yuxuan Liang](https://yuxuanliang.com/) & [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-06-29-140657.png" style="width: 5em; vertical-align: middle;"> Formerly, I earned my **BEng** degree in 2022 from the **_Hefei University of Technology_**, [_School of Computer and Information_](https://ci.hfut.edu.cn/). <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-02-27-172149.png" style="width: 5em; vertical-align: middle;">
 
-My research interests lie in **Multimodal Learning** and **Spatio-Temporal Data Mining**, with a particular focus on visual-language pre-training, generative models, and innovative applications in Urban Computing.
+My research interests lie in **_Multimodal Learning_** and **_Spatio-Temporal Data Mining_**, with a particular focus on visual-language pre-training, generative models, and innovative applications in Urban Computing.
 
-I have extensive experience in both industry and academia. Previously, I was an **Algorithm Research Intern** at the **_Autonomous Driving Center, XPeng Motors_**, where I focused on visual multimodal tasks and contributed to the development of the XNGP (Navigation Guided Pilot) System. Additionally, I spent a year as a full-time **Software Engineer** at **_PCG Tech-Center, Tencent_**, enhancing QQ’s performance and working on Cloud Native Infrastructure Tools such as CodeSpaces and Workflow Engine.
+I have extensive experience in both industry and academia. Previously, I was an **_Algorithm Research Intern_** at the **_Autonomous Driving Center, XPeng Motors_**, where I focused on visual multimodal tasks and contributed to the development of the XNGP (Navigation Guided Pilot) System. Additionally, I spent a year as a full-time **_Software Engineer_** at **_PCG Tech-Center, Tencent_**, enhancing QQ’s performance and working on Cloud Native Infrastructure Tools such as CodeSpaces and Workflow Engine.
 
 
 # 📍 Experience
