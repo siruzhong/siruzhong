@@ -4,7 +4,7 @@ Hi, I'm currently pursuing my PhD degree in [Data Science and Analytics Thrust](
 
 My research interests are centered around <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-032830.png" style="height: 1em; vertical-align: middle;"> **Multimodal Learning** and <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-032926.png" style="height: 1em; vertical-align: middle;"> **Data Mining**, with a particular emphasis on visual-language pre-training, generative models, and innovative applications in Urban Computing.
 
-I have extensive experience in both industry and academia. I was as a **Algorithm Research Intern** at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> **XPeng's Autonomous Driving Center**, where I specialized in visual multimodal research and contributed to the development of the XNGP System. Prior to that, I worked as a full-time **Software Engineer** at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> **Tencent' CloudDev Center**, where I enhanced QQ’s performance and developed Cloud Native Infrastructure Tools such as CodeSpaces and Workflow Engine.
+I have extensive experience in both industry and academia. I was as a **Research Intern** at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> **XPeng's Autonomous Driving Center**, where I specialized in visual multimodal research and contributed to the development of the XNGP System. Prior to that, I worked as a full-time **Software Engineer** at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> **Tencent' CloudDev Center**, where I enhanced QQ’s performance and developed Cloud Native Infrastructure Tools such as CodeSpaces and Workflow Engine.
 
 # 📝 Publications
 
@@ -20,7 +20,7 @@ I have extensive experience in both industry and academia. I was as a **Algorith
 
 <ul>
   <li>
-   <strong>Algorithm Research Intern</strong> | Autonomous Driving Center, <em><a href="https://www.xpeng.com/" target="_blank">XPeng Motors</a></em>, 2024.05 - Present.<br>
+   <strong>Research Intern</strong> | Autonomous Driving Center, <em><a href="https://www.xpeng.com/" target="_blank">XPeng Motors</a></em>, 2024.05 - Present.<br>
     <!--<img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-05-24-025517.png" style="width: 5em;"><br>-->
     - Conducted research on Visual Multi-modal within the autonomous driving visual imaging team.<br>
     - Integrating the findings with the XGNP intelligent driving system to achieve innovative enhancements.
