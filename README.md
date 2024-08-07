@@ -2,7 +2,7 @@
 
 Siru Zhong is an MPhil student in [Data Science and Analytics](http://dsa.hkust-gz.edu.cn/) at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-030513.png" style="height: 1em; vertical-align: middle;"> **The Hong Kong University of Science and Technology (Guangzhou)**, under the supervision of [Prof. Yuxuan Liang](https://yuxuanliang.com/) & [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Before that, he obtained his BEng degree in [School of Computer Science and Information Engineering](https://ci.hfut.edu.cn/), <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-030242.png" style="height: 1em; vertical-align: middle;"> **Hefei University of Technology**. 
 
-He is also an incoming PhD student at **HKUST Guangzhou** in Spring 2025, under the supervision of [Prof. Yuxuan Liang](https://yuxuanliang.com/).
+He is also an incoming PhD student at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-030513.png" style="height: 1em; vertical-align: middle;"> **HKUST Guangzhou** in Spring 2025, under the supervision of [Prof. Yuxuan Liang](https://yuxuanliang.com/).
 
 His current research interests are <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-032830.png" style="height: 1em; vertical-align: middle;"> **Multimodal Learning** and <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-032926.png" style="height: 1em; vertical-align: middle;"> **Data Mining**, with a particular emphasis on visual-language pre-training, generative models, and innovative applications in Urban Computing.
 
