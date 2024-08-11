@@ -4,7 +4,7 @@ Siru Zhong is an M.Phil. student in [Data Science and Analytics](http://dsa.hkus
 
 His current research interest is **Data-Centric Urban Multimodal Learning**, with a particular emphasis on spatio-temporal data mining, visual-language pre-training, generative models, and innovative applications in Urban Computing.
 
-Previously, he has served as an **Algorithm Intern** at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> [XPENG](https://www.xpeng.com/), focusing on visual multimodal research and contributing to the XNGP System. He also has worked as a full-time **Software Engineer** at <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> [Tencent](https://www.tencent.com/), enhancing QQ’s performance and developing cloud-native tools like CodeSpaces and Workflow Engine.
+Previously, he has served as an <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> **Algorithm Intern** at [XPENG](https://www.xpeng.com/), focusing on visual multimodal research and contributing to the XNGP System. He also has worked as a full-time <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> **Software Engineer** at [Tencent](https://www.tencent.com/), enhancing QQ’s performance and developing cloud-native tools like CodeSpaces and Workflow Engine.
 
 # 📝 Publications
 
