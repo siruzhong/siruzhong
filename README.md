@@ -4,7 +4,7 @@ I am currently an M.Phil. and an incoming Ph.D. student in [Data Science and Ana
 
 My research interests lie in **Multimodal Machine Learning** and **Data Mining**, with a particular focus on Spatio-Temporal and Urban scenarios. I aim to mine and discover valuable insights from large volumes of heterogeneous, cross-domain data.
 
-Previously, I served as an <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> **Algorithm Intern** at [XPENG](https://www.xpeng.com/), focusing on visual multimodal research and contributing to the XNGP System. I also have worked as a full-time <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> **Software Engineer** at [Tencent](https://www.tencent.com/), enhancing QQ’s performance and developing cloud-native tools like CodeSpaces and Workflow Engine.
+Previously, I worked as an <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031553.png" style="height: 1em; vertical-align: middle;"> **Algorithm Intern** at [XPENG](https://www.xpeng.com/), where I focused on visual multimodal research and contributed to the development of the XNGP System.  Additionally, I have experience as a full-time <img src="https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2024-07-26-031942.png" style="height: 1em; vertical-align: middle;"> **Software Engineer** at [Tencent](https://www.tencent.com/), where I enhanced the performance of QQ and developed cloud-native tools such as CodeSpaces and the Workflow Engine.
 
 # 📝 Publications
 
