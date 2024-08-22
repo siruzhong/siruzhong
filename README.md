@@ -12,7 +12,7 @@
 
 </div>
 
-<p align="left">Hi, I'm Siru Zhong, an Ph.D. student in <b>Data Science and Analytics</b> at the Hong Kong University of Science and Technology (Guangzhou) 🎓. My research focuses on <b>Multimodal Machine Learning</b> and <b>Data Mining</b>, particularly in Spatio-Temporal and Urban scenarios 🛠. If you're interested in these topics or want to discuss related areas, I'd love to connect! 🤝 </p> 
+<p align="left">Hi, I'm Siru Zhong, an Ph.D. student in Data Science and Analytics at the Hong Kong University of Science and Technology (Guangzhou) 🎓. My research focuses on Multimodal Machine Learning and Data Mining, particularly in Spatio-Temporal and Urban scenarios 🛠. If you're interested in these topics or want to discuss related areas, I'd love to connect! 🤝 </p> 
 
 ###
 
