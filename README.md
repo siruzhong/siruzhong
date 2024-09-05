@@ -6,10 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=A+Multimodal+Learning+Researcher" alt="Typing SVG" /></a> <br>
 </p>
 
-<div align="center">
-
-</div>
-
 <p align="left">I'm a Ph.D. student in Data Science and Analytics at the Hong Kong University of Science and Technology (Guangzhou). My research focuses on Multimodal Machine Learning and Data Mining, particularly in the Complex Spatio-Temporal and Urban scenarios. If you're interested in these topics or want to discuss with me, I'd love to connect! 🤝 </p> 
 
 
