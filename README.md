@@ -12,10 +12,8 @@
 
 </div>
 
-<p align="left">I'm a Ph.D. student in Data Science and Analytics at the Hong Kong University of Science and Technology (Guangzhou). My research focuses on Multimodal Machine Learning and Data Mining, particularly in the Complex Spatio-Temporal and Urban scenarios. If you're interested in these topics or want to discuss related areas, I'd love to connect! 🤝 </p> 
+<p align="left">I'm a Ph.D. student in Data Science and Analytics at the Hong Kong University of Science and Technology (Guangzhou). My research focuses on Multimodal Machine Learning and Data Mining, particularly in the Complex Spatio-Temporal and Urban scenarios. If you're interested in these topics or want to discuss with me, I'd love to connect! 🤝 </p> 
 
 ###
 
 - 😄 More information can be found at my [homepage](https://siruzhong.github.io/).
-- 🌱 I’m currently diving deeper into cross-domain data integration.
-- 💬 Let’s discuss together about Multimodal Machine Learning or Data Mining.
