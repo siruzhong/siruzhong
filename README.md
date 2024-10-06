@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=A+Multimodal+Learning+Researcher" alt="Typing SVG" /></a> <br>
 </p>
 
-<p align="left">I'm a Ph.D. student in Data Science and Analytics at the Hong Kong University of Science and Technology (Guangzhou). My research focuses on Multimodal Machine Learning and Data Mining, particularly in the Complex Spatio-Temporal and Urban scenarios. If you're interested in these topics or want to discuss with me, I'd love to connect! 🤝 </p> 
+<p align="left">I'm an incoming Ph.D. student at HKUST(GZ), focusing on Multimodal ML and Data Mining in Spatio-Temporal and Urban scenarios. Interested? Let's chat! 🤝 </p> 
 
 
 <p align="center">
@@ -14,4 +14,4 @@
 
 </p>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=siruzhong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siruzhong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=siruzhong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siruzhong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
