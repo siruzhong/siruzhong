@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=A+Multimodal+Learning+Researcher" alt="Typing SVG" /></a> <br>
 </p>
 
-<p align="left">I'm an incoming Ph.D. student at HKUST(GZ), focusing on Multimodal ML and Data Mining in Spatio-Temporal and Urban scenarios. </p> 
+<p align="left">I'm a Ph.D. student at HKUST(GZ), focusing on Multimodal ML and Data Mining in Spatio-Temporal and Urban scenarios. </p> 
 
 
 <p align="center">
