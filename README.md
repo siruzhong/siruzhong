@@ -3,7 +3,7 @@
 <h1 align="center" style="margin: 10px; padding: 0px;">Hi~ I'm Siru ! 👋</h1> 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=An+Temporal+Multimodal+Researcher" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=An+Spatio-Temporal+Multimodal+Researcher" alt="Typing SVG" /></a> <br>
 </p>
 
 <p align="center">I'm a Ph.D. student at HKUST Guangzhou, focusing on Multimodal ML and Data Mining in Spatio-Temporal and Urban scenarios. </p> 
