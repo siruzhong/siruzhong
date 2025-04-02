@@ -2,10 +2,6 @@
 
 <h1 align="center" style="margin: 10px; padding: 0px;">Hi~ I'm Siru ! 👋</h1> 
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=1E90FF&center=true&vCenter=true&repeat=false&width=535&lines=A+Spatio-Temporal+Multimodal+Researcher" alt="Typing SVG" /></a> <br>
-</p>
-
 <p align="center">I'm a Ph.D. student at HKUST(GZ), focusing on Spatial-Temporal Data Mining, Multimodal Learning, and Time Series Analysis. </p> 
 
 
